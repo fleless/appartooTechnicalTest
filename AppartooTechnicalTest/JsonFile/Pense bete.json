@@ -1,0 +1,1904 @@
+{
+    "code": 200,
+    "bars": [{
+        "id": 1627,
+        "address": "100 Rue Saint-Martin, 75004 Paris, France, Opera and Les Halles, Paris",
+        "name": "Caf\u00e9 Beaubourg",
+        "url": "/bar/paris/opera-and-les-halles/cafe-beaubourg",
+        "image_url": "https://en.parisinfo.com/var/otcp/sites/images/media/1.-photos/04.-restauration-630-x-405/caf%C3%A9-beaubourg-%7C-630x405-%7C-%C2%A9-caf%C3%A9-beaubourg/10723673-1-fre-FR/Caf%C3%A9-Beaubourg-%7C-630x405-%7C-%C2%A9-Caf%C3%A9-Beaubourg.jpg",
+        "tags": "Bar, Gay, Cafe, Dinner, Lunch",
+        "latitude": 48.860033826521,
+        "longitude": 2.3508920416641
+    }, {
+        "id": 1259,
+        "address": "19 Rue Beaubourg, 75004 Paris, France, Bastille and the Marais, Paris",
+        "name": "Georges",
+        "url": "/bar/paris/bastille-and-the-marais/georges",
+        "image_url": "https://prh-wbb-prod.s3.amazonaws.com/generic_640_480/WBB%20holding%20image4_54abcf6d1f68d_55b8d2015bb13.jpg",
+        "tags": "Serves Food, Great View, Rooftop, Terrace, Rock",
+        "latitude": 48.8603,
+        "longitude": 2.35097
+    }, {
+        "id": 4528,
+        "address": "45 Rue Quincampoix, 75004 Paris, Bastille and the Marais, Paris",
+        "name": "La caves a bulles",
+        "url": "/bar/paris/bastille-and-the-marais/la-caves-a-bulles",
+        "image_url": "https://prh-wbb-prod.s3.amazonaws.com/generic_640_480/WBB%20holding%20image3_54abcf7d218d1_55b8d2128eabb.jpg",
+        "tags": "Beer",
+        "latitude": 48.8611042,
+        "longitude": 2.3501592
+    }, {
+        "id": 1988,
+        "address": "58 Rue Quincampoix 4e Arrondissement, Bastille and the Marais, Paris",
+        "name": "Brooklyn",
+        "url": "/bar/paris/bastille-and-the-marais/brooklyn",
+        "image_url": "https://prh-wbb-prod.s3.amazonaws.com/generic_640_480/WBB%20holding%20image2_54abcf8947bad_55b8d2356db99.jpg",
+        "tags": "Cocktail, Beer",
+        "latitude": 48.861299,
+        "longitude": 2.350688
+    }, {
+        "id": 4436,
+        "address": "60 Rue Quincampoix, Paris IV, Bastille and the Marais, Paris",
+        "name": "Le Barberousse",
+        "url": "/bar/paris/bastille-and-the-marais/le-barberousse",
+        "image_url": "https://prh-wbb-prod.s3.amazonaws.com/generic_640_480/WBB%20holding%20image4_54abcf6d1f68d_55b8d2015bb13.jpg",
+        "tags": "Rum, Cocktail",
+        "latitude": 48.8614786,
+        "longitude": 2.3507301
+    }, {
+        "id": 1296,
+        "address": "94 Rue Quincampoix, 75003 Paris, France, Opera and Les Halles, Paris",
+        "name": "Acte 3",
+        "url": "/bar/paris/opera-and-les-halles/acte-3",
+        "image_url": "https://prh-wbb-prod.s3.amazonaws.com/generic_640_480/WBB%20holding%20image3_54abcf7d218d1_55b8d2128eabb.jpg",
+        "tags": "Cocktail, DJ, Dancing, Nightlife",
+        "latitude": 48.862795872342,
+        "longitude": 2.3514108359814
+    }, {
+        "id": 4498,
+        "address": "13 Rue Tiquetonne, 75002 Paris, France, Le Louvre, Paris",
+        "name": "Maze",
+        "url": "/bar/paris/le-louvre/maze",
+        "image_url": "https://prh-wbb-prod.s3.amazonaws.com/generic_640_480/WBB%20holding%20image1_54abcfef07abc_55b8d225168b6.jpg",
+        "tags": "Cocktail, Speakeasy",
+        "latitude": 48.8645637,
+        "longitude": 2.3488979
+    }, {
+        "id": 1155,
+        "address": "13 rue de Tiquetonne, Bastille and the Marais, Paris",
+        "name": "The Art Room",
+        "url": "/bar/paris/bastille-and-the-marais/the-art-room",
+        "image_url": "https://prh-wbb-prod.s3.amazonaws.com/generic_640_480/WBB%20holding%20image4_54abcf6d1f68d_55b8d2015bb13.jpg",
+        "tags": "Bar, Cocktail",
+        "latitude": 48.864705905578,
+        "longitude": 2.3480627588955
+    }, {
+        "id": 1211,
+        "address": "18 Rue du Bourg Tibourg, 75004, Bastille and the Marais, Paris",
+        "name": "The Lizard Lounge",
+        "url": "/bar/paris/bastille-and-the-marais/the-lizard-lounge",
+        "image_url": "https://prh-wbb-prod.s3.amazonaws.com/generic_640_480/WBB%20holding%20image1_54abcfef07abc_55b8d225168b6.jpg",
+        "tags": "Bar, Pub, Nightlife, DJ, Dinner, Lunch",
+        "latitude": 48.8573329,
+        "longitude": 2.3564459
+    }, {
+        "id": 1576,
+        "address": "1 Rue du Pont Neuf, 75001 Paris, France, St Germain and the Latin Quarter, Paris",
+        "name": "Kong",
+        "url": "/bar/paris/st-germain-and-the-latin-quarter/kong",
+        "image_url": "https://prh-wbb-prod.s3.amazonaws.com/bar_640_480/Kong_54b54a1c62414.jpg",
+        "tags": "Restaurant, Cocktail",
+        "latitude": 48.8586,
+        "longitude": 2.34263
+    }, {
+        "id": 1295,
+        "address": "69 rue des Gravilliers, Bastille and the Marais, Paris",
+        "name": "Club Andy Wahloo",
+        "url": "/bar/paris/bastille-and-the-marais/club-andy-wahloo",
+        "image_url": "https://prh-wbb-prod.s3.amazonaws.com/bar_640_480/andy%20Wahloo%20small%201_54b79f52dfe21.jpg",
+        "tags": "Cocktail, Gin, Wine",
+        "latitude": 48.8645,
+        "longitude": 2.354
+    }, {
+        "id": 1386,
+        "address": "34 rue Vieille du Temple Rue Vieille du Temple, Bastille and the Marais, Paris",
+        "name": "L\u0027Etoile Manquante",
+        "url": "/bar/paris/bastille-and-the-marais/l-etoile-manquante",
+        "image_url": "https://prh-wbb-prod.s3.amazonaws.com/generic_640_480/WBB%20holding%20image1_54abcfef07abc_55b8d225168b6.jpg",
+        "tags": "Cocktail, Gin, Wine",
+        "latitude": 48.857633,
+        "longitude": 2.357485
+    }, {
+        "id": 2078,
+        "address": "47 Rue Berger, 75001 Paris, France, Opera and Les Halles, Paris",
+        "name": "Chacha Club",
+        "url": "/bar/paris/opera-and-les-halles/chacha-club",
+        "image_url": "https://prh-wbb-prod.s3.amazonaws.com/generic_640_480/WBB%20holding%20image4_54abcf6d1f68d_55b8d2015bb13.jpg",
+        "tags": "Restaurant, Group Friendly, Outdoor Space, Reserve",
+        "latitude": 48.862138652417,
+        "longitude": 2.3422895553222
+    }, {
+        "id": 1271,
+        "address": "14, Rue St Sauveur Rue Montorgueuil, Bastille and the Marais, Paris",
+        "name": "Jefrey\u0027s",
+        "url": "/bar/paris/bastille-and-the-marais/jefrey-s",
+        "image_url": "https://prh-wbb-prod.s3.amazonaws.com/bar_640_480/Jefreys%20small%201_548adabe3b8ba.jpg",
+        "tags": "Cocktail, Whisky",
+        "latitude": 48.865830069991,
+        "longitude": 2.3492522312461
+    }, {
+        "id": 1577,
+        "address": "11, rue des Gravilliers 75003, Bastille and the Marais, Paris",
+        "name": "Jules et Jim",
+        "url": "/bar/paris/bastille-and-the-marais/jules-et-jim",
+        "image_url": "https://prh-wbb-prod.s3.amazonaws.com/bar_640_480/5460d98b89f27_jules%20et%20jim.jpg",
+        "tags": "Hotel, Bar",
+        "latitude": 48.8634501,
+        "longitude": 2.3572751
+    }, {
+        "id": 1213,
+        "address": "58 rue Jean-Jacques Rousseau 1er,Ch\u00e0telet/Les Halles, Le Louvre, Paris",
+        "name": "The Fish Club",
+        "url": "/bar/paris/le-louvre/the-fish-club",
+        "image_url": "https://prh-wbb-prod.s3.amazonaws.com/bar_640_480/Fish%20club%20small%201_561bdf63d7c17.jpg",
+        "tags": "Serves Food, South American, Speakeasy, Cocktail",
+        "latitude": 48.864076344699,
+        "longitude": 2.3434924714682
+    }, {
+        "id": 1890,
+        "address": "58 Rue Jean-Jacques Rousseau, 75001 Paris, France, Opera and Les Halles, Paris",
+        "name": "Le Ballroom du Beef Club",
+        "url": "/bar/paris/opera-and-les-halles/le-ballroom-du-beef-club",
+        "image_url": "https://prh-wbb-prod.s3.amazonaws.com/bar_640_480/beefclub%20ballroom%20small%201_54db76c01d834.jpg",
+        "tags": "Bar, Cocktail, Speakeasy",
+        "latitude": 48.864066300496,
+        "longitude": 2.3433824136857
+    }, {
+        "id": 2006,
+        "address": "60 rue Jean-Jacques Rousseau Rue Jean Jacques Rousseau 75001 Paris, Le Louvre, Paris",
+        "name": "Why Bar",
+        "url": "/bar/paris/le-louvre/why-bar",
+        "image_url": "https://prh-wbb-prod.s3.amazonaws.com/generic_640_480/WBB%20holding%20image1_54abcfef07abc_55b8d225168b6.jpg",
+        "tags": "Serves Food, Cocktail, Champagne",
+        "latitude": 48.864199846291,
+        "longitude": 2.3435219025062
+    }, {
+        "id": 4158,
+        "address": "16 Rue Cloche Perc\u00e9, 75004 Paris, Bastille and the Marais, Paris",
+        "name": "Stolly\u2019s",
+        "url": "/bar/paris/bastille-and-the-marais/stolly-s",
+        "image_url": "https://prh-wbb-prod.s3.amazonaws.com/generic_640_480/WBB%20holding%20image2_54abcf8947bad_55b8d2356db99.jpg",
+        "tags": "Cocktail, Whisky, Beer",
+        "latitude": 48.8564322,
+        "longitude": 2.3573264
+    }, {
+        "id": 1620,
+        "address": "26 Rue Dussoubs, 75002 Paris, France, Opera and Les Halles, Paris",
+        "name": "Club Raye",
+        "url": "/bar/paris/opera-and-les-halles/club-raye",
+        "image_url": "https://prh-wbb-prod.s3.amazonaws.com/bar_640_480/IMG_2275_553a4e8bb3d12.JPG",
+        "tags": "Bar",
+        "latitude": 48.866052393071,
+        "longitude": 2.3490079642182
+    }, {
+        "id": 1223,
+        "address": "37, Rue Saint Sauveur, 75002, Le Louvre, Paris",
+        "name": "Experimental Cocktail Club",
+        "url": "/bar/paris/le-louvre/experimental-cocktail-club",
+        "image_url": "https://prh-wbb-prod.s3.amazonaws.com/bar_640_480/ECC%20Paris%202_54b546ec00166.jpg",
+        "tags": "Cocktail, Speakeasy, Hipster",
+        "latitude": 48.8660725,
+        "longitude": 2.3482312
+    }, {
+        "id": 1237,
+        "address": "6 Rue de l\u0027Amiral de Coligny 1er Arrondissement, Le Louvre, Paris",
+        "name": "Le Fumoir",
+        "url": "/bar/paris/le-louvre/le-fumoir",
+        "image_url": "https://prh-wbb-prod.s3.amazonaws.com/generic_640_480/WBB%20holding%20image1_54abcfef07abc_55b8d225168b6.jpg",
+        "tags": "Cocktail",
+        "latitude": 48.860352821094,
+        "longitude": 2.3406028747559
+    }, {
+        "id": 2036,
+        "address": "44 rue du Louvre rue du Louvre, City-Center, Paris",
+        "name": "Promenade Lounge",
+        "url": "/bar/paris/city-center/promenade-lounge",
+        "image_url": "https://prh-wbb-prod.s3.amazonaws.com/generic_640_480/WBB%20holding%20image2_54abcf8947bad_55b8d2356db99.jpg",
+        "tags": "Restaurant, Bar, Pub",
+        "latitude": 48.864,
+        "longitude": 2.34232
+    }, {
+        "id": 4845,
+        "address": "18, Rue Bachaumont 75002 Paris, Le Louvre, Paris",
+        "name": "The Bar Night Flight at Hotel Bachaumont",
+        "url": "/bar/paris/le-louvre/the-bar-night-flight-at-hotel-bachaumont",
+        "image_url": "https://prh-wbb-prod.s3.amazonaws.com/bar_640_480/night%20flight%20bachaumont%20small%201_561f718a98ebf.jpg",
+        "tags": "Hotel, Restaurant, Cocktail",
+        "latitude": 48.865968,
+        "longitude": 2.3460693
+    }, {
+        "id": 1891,
+        "address": "51 Quai des Grands Augustins, 75006 Paris, France, St Germain and the Latin Quarter, Paris",
+        "name": "Laperouse",
+        "url": "/bar/paris/st-germain-and-the-latin-quarter/laperouse",
+        "image_url": "https://prh-wbb-prod.s3.amazonaws.com/generic_640_480/WBB%20holding%20image1_54abcfef07abc_55b8d225168b6.jpg",
+        "tags": "Serves Food, Champagne",
+        "latitude": 48.855185158409,
+        "longitude": 2.3415438588955
+    }, {
+        "id": 2141,
+        "address": "19, rue H\u00e9rold   1er,Bourse, Le Louvre, Paris",
+        "name": "Bar O",
+        "url": "/bar/paris/le-louvre/bar-o",
+        "image_url": "https://prh-wbb-prod.s3.amazonaws.com/bar_640_480/bar%27o_paris_cocktail_5631f9c452889.PNG",
+        "tags": "Hotel",
+        "latitude": 48.86508120986,
+        "longitude": 2.3417527824859
+    }, {
+        "id": 1262,
+        "address": "78 rue Vieille du Temple, 75003 Paris, France, Bastille and the Marais, Paris",
+        "name": "La Perle",
+        "url": "/bar/paris/bastille-and-the-marais/la-perle",
+        "image_url": "https://prh-wbb-prod.s3.amazonaws.com/generic_640_480/WBB%20holding%20image3_54abcf7d218d1_55b8d2128eabb.jpg",
+        "tags": "Wine, Beer, Terrace",
+        "latitude": 48.8595,
+        "longitude": 2.36155
+    }, {
+        "id": 3962,
+        "address": "58 rue d\u0027Aboukir 75002 Paris, Bastille and the Marais, Paris",
+        "name": "Mabel",
+        "url": "/bar/paris/bastille-and-the-marais/mabel",
+        "image_url": "https://prh-wbb-prod.s3.amazonaws.com/bar_640_480/Mabel_54b557af97fa6.jpg",
+        "tags": "Rum, Cocktail",
+        "latitude": 48.8673396,
+        "longitude": 2.3461304
+    }, {
+        "id": 3906,
+        "address": "L\u2019Hotel le 123 Sebastopol 23, boulevard S\u00e9bastopol, Paris, 75002, Le Louvre, Paris",
+        "name": "123 Sebastopol",
+        "url": "/bar/paris/le-louvre/123-sebastopol",
+        "image_url": "https://prh-wbb-prod.s3.amazonaws.com/generic_640_480/WBB%20holding%20image3_54abcf7d218d1_55b8d2128eabb.jpg",
+        "tags": "Hotel, Cocktail, Terrace",
+        "latitude": 48.867598851356,
+        "longitude": 2.3533117460327
+    }, {
+        "id": 1523,
+        "address": "73 Rue d\u0027Aboukir, 75002 Paris, France, Le Louvre, Paris",
+        "name": "Lockwood",
+        "url": "/bar/paris/le-louvre/lockwood",
+        "image_url": "https://prh-wbb-prod.s3.amazonaws.com/bar_640_480/lockwood_001_553f5b2c99f4b.jpg",
+        "tags": false,
+        "latitude": 48.867716087563,
+        "longitude": 2.3469846706722
+    }, {
+        "id": 1637,
+        "address": "52 Rue Galande, 75005 Paris, France, St Germain and the Latin Quarter, Paris",
+        "name": "Caveau des Oubliettes",
+        "url": "/bar/paris/st-germain-and-the-latin-quarter/caveau-des-oubliettes",
+        "image_url": "https://prh-wbb-prod.s3.amazonaws.com/generic_640_480/WBB%20holding%20image3_54abcf7d218d1_55b8d2128eabb.jpg",
+        "tags": "Nightlife, Jazz \u0026 Blues, Bar, Cocktail",
+        "latitude": 48.852144,
+        "longitude": 2.346727
+    }, {
+        "id": 1541,
+        "address": "4 Rue Danton, 75006 Paris, France, St Germain and the Latin Quarter, Paris",
+        "name": "Le Quarante Trois",
+        "url": "/bar/paris/st-germain-and-the-latin-quarter/le-quarante-trois",
+        "image_url": "https://prh-wbb-prod.s3.amazonaws.com/generic_640_480/WBB%20holding%20image4_54abcf6d1f68d_55b8d2015bb13.jpg",
+        "tags": "Bar, Cocktail",
+        "latitude": 48.852856812953,
+        "longitude": 2.3422184700294
+    }, {
+        "id": 2037,
+        "address": "23 rue Mazarine, 75006 Paris, France, St Germain and the Latin Quarter, Paris",
+        "name": "Prescription Cocktail Club",
+        "url": "/bar/paris/st-germain-and-the-latin-quarter/prescription-cocktail-club",
+        "image_url": "https://prh-wbb-prod.s3.amazonaws.com/bar_640_480/Untitled%20design_561bd0afe2638.png",
+        "tags": "Cocktail",
+        "latitude": 48.8549968,
+        "longitude": 2.3381224
+    }, {
+        "id": 1274,
+        "address": "14 Rue Hautefeuille, 75006 Paris, France, St Germain and the Latin Quarter, Paris",
+        "name": "Castor Club",
+        "url": "/bar/paris/st-germain-and-the-latin-quarter/castor-club",
+        "image_url": "https://prh-wbb-prod.s3.amazonaws.com/generic_640_480/WBB%20holding%20image1_54abcfef07abc_55b8d225168b6.jpg",
+        "tags": "Speakeasy, Cocktail, Rum, Champagne, Beer",
+        "latitude": 48.852,
+        "longitude": 2.3423
+    }, {
+        "id": 1187,
+        "address": "138 Rue Montmartre 2e Arrondissement, Le Louvre, Paris",
+        "name": "Token 138",
+        "url": "/bar/paris/le-louvre/token-138",
+        "image_url": "https://prh-wbb-prod.s3.amazonaws.com/generic_640_480/WBB%20holding%20image2_54abcf8947bad_55b8d2356db99.jpg",
+        "tags": "Cocktail, Champagne, Serves Food",
+        "latitude": 48.868488396062,
+        "longitude": 2.3433937509213
+    }, {
+        "id": 2164,
+        "address": "62  Rue Mazarine 6e Arrondissement, St Germain and the Latin Quarter, Paris",
+        "name": "Mezzanine Bar at Alcazar",
+        "url": "/bar/paris/st-germain-and-the-latin-quarter/mezzanine-bar-at-alcazar",
+        "image_url": "https://prh-wbb-prod.s3.amazonaws.com/generic_640_480/WBB%20holding%20image4_54abcf6d1f68d_55b8d2015bb13.jpg",
+        "tags": "Restaurant",
+        "latitude": 48.8546990348,
+        "longitude": 2.3378914785585
+    }, {
+        "id": 1524,
+        "address": "60 Rue Charlot, 75003 Paris, France, Bastille and the Marais, Paris",
+        "name": "Little Red Door",
+        "url": "/bar/paris/bastille-and-the-marais/little-red-door",
+        "image_url": "https://prh-wbb-prod.s3.amazonaws.com/bar_640_480/little%20red%20door%204_54b5531684e0c.jpg",
+        "tags": "Speakeasy",
+        "latitude": 48.863675371867,
+        "longitude": 2.3635738841906
+    }, {
+        "id": 1623,
+        "address": "52 Rue de Saintonge, 75003 Paris, France, Bastille and the Marais, Paris",
+        "name": "Candelaria",
+        "url": "/bar/paris/bastille-and-the-marais/candelaria",
+        "image_url": "https://prh-wbb-prod.s3.amazonaws.com/bar_640_480/Candelaria%20small%201_54b4f73cb26ea.jpg",
+        "tags": "Nightlife, Speakeasy, Restaurant, Dinner, Lunch",
+        "latitude": 48.863031,
+        "longitude": 2.363939
+    }, {
+        "id": 4042,
+        "address": "27 Rue Meslay 75003 Paris, Le Louvre, Paris",
+        "name": "The Beast",
+        "url": "/bar/paris/le-louvre/the-beast",
+        "image_url": "https://prh-wbb-prod.s3.amazonaws.com/bar_640_480/The%20Beast_54e20bed943df.jpg",
+        "tags": "Whisky, Serves Food, Beer, Wine",
+        "latitude": 48.8676544,
+        "longitude": 2.3596348999999
+    }, {
+        "id": 1380,
+        "address": "15 Rue des Petits Champs, Bastille and the Marais, Paris",
+        "name": "Maceo Restaurant and Bar",
+        "url": "/bar/paris/bastille-and-the-marais/maceo-restaurant-and-bar",
+        "image_url": "https://prh-wbb-prod.s3.amazonaws.com/generic_640_480/WBB%20holding%20image2_54abcf8947bad_55b8d2356db99.jpg",
+        "tags": "Gin, Wine",
+        "latitude": 48.8663,
+        "longitude": 2.33831
+    }, {
+        "id": 4782,
+        "address": "87 Rue de Turbigo, 75003 Paris, France, Bastille and the Marais, Paris",
+        "name": "Shake\u2019n\u2019Smash",
+        "url": "/bar/paris/bastille-and-the-marais/shake-n-smash",
+        "image_url": "https://prh-wbb-prod.s3.amazonaws.com/generic_640_480/WBB%20holding%20image4_54abcf6d1f68d_55b8d2015bb13.jpg",
+        "tags": "DJ, Cocktail, Serves Food",
+        "latitude": 48.866808,
+        "longitude": 2.3611490000001
+    }, {
+        "id": 2083,
+        "address": "1 Rue Commines, 75003 Paris, France, Bastille and the Marais, Paris",
+        "name": "Le Mary Celeste",
+        "url": "/bar/paris/bastille-and-the-marais/le-mary-celeste",
+        "image_url": "https://prh-wbb-prod.s3.amazonaws.com/generic_640_480/WBB%20holding%20image3_54abcf7d218d1_55b8d2128eabb.jpg",
+        "tags": "Bar, Cocktail, Wine, Restaurant",
+        "latitude": 48.861791497865,
+        "longitude": 2.3649888811661
+    }, {
+        "id": 1267,
+        "address": "142 Rue Montmartre, 75002 Paris, France, Opera and Les Halles, Paris",
+        "name": "Club Silencio",
+        "url": "/bar/paris/opera-and-les-halles/club-silencio",
+        "image_url": "https://prh-wbb-prod.s3.amazonaws.com/bar_640_480/Club%20Silencio_54b5057a1c5cd.jpg",
+        "tags": "Nightclub, Live music, Cocktail",
+        "latitude": 48.869193,
+        "longitude": 2.343138
+    }, {
+        "id": 1207,
+        "address": "47 rue Montpensier 1er Arrondissement, Le Louvre, Paris",
+        "name": "Verjus",
+        "url": "/bar/paris/le-louvre/verjus",
+        "image_url": "https://prh-wbb-prod.s3.amazonaws.com/bar_640_480/Generic%20image_55cb65382e0e2.jpg",
+        "tags": "Serves Food, Wine",
+        "latitude": 48.866215604378,
+        "longitude": 2.3375994341175
+    }, {
+        "id": 1570,
+        "address": "13  Rue des Beaux-Arts 6 arrondissement de Pars, St Germain and the Latin Quarter, Paris",
+        "name": "Le Bar de L\u0027Hotel",
+        "url": "/bar/paris/st-germain-and-the-latin-quarter/le-bar-de-l-hotel",
+        "image_url": "https://prh-wbb-prod.s3.amazonaws.com/generic_640_480/WBB%20holding%20image4_54abcf6d1f68d_55b8d2015bb13.jpg",
+        "tags": "Restaurant",
+        "latitude": 48.856330592249,
+        "longitude": 2.3353014894104
+    }, {
+        "id": 1574,
+        "address": "37 Rue du Sentier 75002 Paris France, Le Louvre, Paris",
+        "name": "La Conserverie",
+        "url": "/bar/paris/le-louvre/la-conserverie",
+        "image_url": "https://prh-wbb-prod.s3.amazonaws.com/generic_640_480/WBB%20holding%20image2_54abcf8947bad_55b8d2356db99.jpg",
+        "tags": "Restaurant",
+        "latitude": 48.870140115225,
+        "longitude": 2.3461309197551
+    }, {
+        "id": 1635,
+        "address": "34 Boulevard de Bonne Nouvelle, 75010 Paris, France, Le Louvre, Paris",
+        "name": "Delaville Caf\u00e9",
+        "url": "/bar/paris/le-louvre/delaville-cafe",
+        "image_url": "https://prh-wbb-prod.s3.amazonaws.com/generic_640_480/WBB%20holding%20image2_54abcf8947bad_55b8d2356db99.jpg",
+        "tags": false,
+        "latitude": 48.870619650108,
+        "longitude": 2.3491106416989
+    }, {
+        "id": 4193,
+        "address": "66 Boulevard Saint-Germain, 75006 Paris, St Germain and the Latin Quarter, Paris",
+        "name": "La Rhumerie",
+        "url": "/bar/paris/st-germain-and-the-latin-quarter/la-rhumerie",
+        "image_url": "https://prh-wbb-prod.s3.amazonaws.com/bar_640_480/_MG_1162_55f6eeee3f4ff.JPG",
+        "tags": "Caribbean, Cocktail, Restaurant, Mojito, Rum, Happy hour",
+        "latitude": 48.8523249,
+        "longitude": 2.338717
+    }, {
+        "id": 1264,
+        "address": "7 Rue Froissart, 75003 Paris, France, Bastille and the Marais, Paris",
+        "name": "Demon",
+        "url": "/bar/paris/bastille-and-the-marais/demon",
+        "image_url": "https://prh-wbb-prod.s3.amazonaws.com/generic_640_480/WBB%20holding%20image4_54abcf6d1f68d_55b8d2015bb13.jpg",
+        "tags": "Cocktail, Tequila",
+        "latitude": 48.861464017619,
+        "longitude": 2.3660907288927
+    }, {
+        "id": 1286,
+        "address": "7 Rue Froissart, 75003 Paris, France, Bastille and the Marais, Paris",
+        "name": "Beaucoup",
+        "url": "/bar/paris/bastille-and-the-marais/beaucoup",
+        "image_url": "https://prh-wbb-prod.s3.amazonaws.com/generic_640_480/WBB%20holding%20image3_54abcf7d218d1_55b8d2128eabb.jpg",
+        "tags": "Serves Food, Cocktail, Wine",
+        "latitude": 48.861481039297,
+        "longitude": 2.3661593869136
+    }, {
+        "id": 3952,
+        "address": "5 Rue Bouchardon, 75010 Paris, Opera and Les Halles, Paris",
+        "name": "Copper Bay",
+        "url": "/bar/paris/opera-and-les-halles/copper-bay",
+        "image_url": "https://prh-wbb-prod.s3.amazonaws.com/bar_640_480/CopperBay%20Bloody%20Secret_54d4ddd885b7d.jpg",
+        "tags": "Cocktail, Beer Bar, Wine",
+        "latitude": 48.8698311,
+        "longitude": 2.3571402
+    }, {
+        "id": 2040,
+        "address": "13 Boulevard du Temple, 75003, Bastille and the Marais, Paris",
+        "name": "Murano Urban Resort",
+        "url": "/bar/paris/bastille-and-the-marais/murano-urban-resort",
+        "image_url": "https://prh-wbb-prod.s3.amazonaws.com/bar_640_480/Generic%20image_55cb0b550f75a.jpg",
+        "tags": "Hotel",
+        "latitude": 48.8638331,
+        "longitude": 2.3655282
+    }, {
+        "id": 1153,
+        "address": "34, Rue de Buci, 75006, St Germain and the Latin Quarter, Paris",
+        "name": "Playtime",
+        "url": "/bar/paris/st-germain-and-the-latin-quarter/playtime",
+        "image_url": "https://prh-wbb-prod.s3.amazonaws.com/bar_640_480/Playtime_5565b14c40b98.jpg",
+        "tags": "Hotel, Cocktail, Vodka, Happy hour",
+        "latitude": 48.8534488,
+        "longitude": 2.3360681
+    }, {
+        "id": 2070,
+        "address": "20 rue Beautreillis, 75004 Paris, France, Bastille and the Marais, Paris",
+        "name": "Sherry Butt",
+        "url": "/bar/paris/bastille-and-the-marais/sherry-butt",
+        "image_url": "https://prh-wbb-prod.s3.amazonaws.com/bar_640_480/sherry%20butt%20small%201_54b7912068c79.jpg",
+        "tags": "Cocktail, Whisky",
+        "latitude": 48.8533223,
+        "longitude": 2.3639653
+    }, {
+        "id": 1381,
+        "address": "1 Rue de Cond\u00e9, 75006 Paris, France, St Germain and the Latin Quarter, Paris",
+        "name": "Le Schmuck",
+        "url": "/bar/paris/st-germain-and-the-latin-quarter/le-schmuck",
+        "image_url": "https://prh-wbb-prod.s3.amazonaws.com/bar_640_480/schmuck%204_54b550fb150e4.jpg",
+        "tags": "Serves Food, Champagne",
+        "latitude": 48.851561128558,
+        "longitude": 2.3383662161325
+    }, {
+        "id": 1611,
+        "address": "91 Boulevard Beaumarchais, 75003 Paris, France, Bastille and the Marais, Paris",
+        "name": "Grazie",
+        "url": "/bar/paris/bastille-and-the-marais/grazie",
+        "image_url": "https://prh-wbb-prod.s3.amazonaws.com/generic_640_480/WBB%20holding%20image1_54abcfef07abc_55b8d225168b6.jpg",
+        "tags": "Serves Food, Cocktail, Gin, Whisky",
+        "latitude": 48.859355,
+        "longitude": 2.367312
+    }, {
+        "id": 4610,
+        "address": "30 Rue Ren\u00e9 Boulanger, 75010 Paris, France, Opera and Les Halles, Paris",
+        "name": "Lavomatic",
+        "url": "/bar/paris/opera-and-les-halles/lavomatic",
+        "image_url": "https://prh-wbb-prod.s3.amazonaws.com/bar_640_480/lavomatic-bar-cocktails-paris-mosaic_56419dc9d6df8.png",
+        "tags": "Cocktail, Speakeasy, Serves Food",
+        "latitude": 48.8686037,
+        "longitude": 2.3617725
+    }, {
+        "id": 2077,
+        "address": "101 Amelot 75011 Paris, Bastille and the Marais, Paris",
+        "name": "Panic Room",
+        "url": "/bar/paris/bastille-and-the-marais/panic-room",
+        "image_url": "https://prh-wbb-prod.s3.amazonaws.com/bar_640_480/5462257f1d1e0_panice%20room%20paris%203.jpg",
+        "tags": false,
+        "latitude": 48.86120718996,
+        "longitude": 2.3675529663673
+    }, {
+        "id": 1885,
+        "address": "3 Rue Rougemont, 75009 Paris, France, Montmartre and the North, Paris",
+        "name": "Maison F",
+        "url": "/bar/paris/montmartre-and-the-north/maison-f",
+        "image_url": "https://prh-wbb-prod.s3.amazonaws.com/bar_640_480/Maison%20F%203_54b55445710df.JPG",
+        "tags": "Serves Food, Cocktail, Wine",
+        "latitude": 48.8714,
+        "longitude": 2.34568
+    }, {
+        "id": 1218,
+        "address": "188 Rue de Rivoli 1er Arrondissement, Le Louvre, Paris",
+        "name": "VIP Room",
+        "url": "/bar/paris/le-louvre/vip-room",
+        "image_url": "https://prh-wbb-prod.s3.amazonaws.com/bar_640_480/vip%20room%20paris_54b64c5982d09.jpg",
+        "tags": "Cocktail, Gin, Champagne, Nightclub",
+        "latitude": 48.863463793524,
+        "longitude": 2.3329210147629
+    }, {
+        "id": 3960,
+        "address": "108 Rue Amelot, 75011 Paris, France, Bastille and the Marais, Paris",
+        "name": "Pas de Loup",
+        "url": "/bar/paris/bastille-and-the-marais/pas-de-loup",
+        "image_url": "https://prh-wbb-prod.s3.amazonaws.com/generic_640_480/WBB%20holding%20image4_54abcf6d1f68d_55b8d2015bb13.jpg",
+        "tags": false,
+        "latitude": 48.8630232,
+        "longitude": 2.3674255999999
+    }, {
+        "id": 1636,
+        "address": "47 Rue du Faubourg Saint-Denis, 75010 Paris, France, Opera and Les Halles, Paris",
+        "name": "Chez Jeanette",
+        "url": "/bar/paris/opera-and-les-halles/chez-jeanette",
+        "image_url": "https://prh-wbb-prod.s3.amazonaws.com/bar_640_480/545ccbf2b3332_chez-jeannette.jpg",
+        "tags": "Bar",
+        "latitude": 48.871637781953,
+        "longitude": 2.3535804007258
+    }, {
+        "id": 3950,
+        "address": "3 Rue Oberkampf, Paris, Bastille and the Marais, Paris",
+        "name": "Bespoke",
+        "url": "/bar/paris/bastille-and-the-marais/bespoke",
+        "image_url": "https://prh-wbb-prod.s3.amazonaws.com/bar_640_480/_MG_2677_561b73251b04a.jpeg",
+        "tags": false,
+        "latitude": 48.8629101,
+        "longitude": 2.3675675
+    }, {
+        "id": 1604,
+        "address": "12 Rue du Ch\u00e2teau d\u0027Eau, 75010 Paris, France, Bastille and the Marais, Paris",
+        "name": "Le Coq",
+        "url": "/bar/paris/bastille-and-the-marais/le-coq",
+        "image_url": "https://prh-wbb-prod.s3.amazonaws.com/bar_640_480/5460faa0b658b_Le%20coq%20small.jpg",
+        "tags": "Cocktail",
+        "latitude": 48.869648550641,
+        "longitude": 2.3609201457712
+    }, {
+        "id": 3957,
+        "address": "51 rue Faubourg Saint Denis\u2028 75010 Paris, Opera and Les Halles, Paris",
+        "name": "Le Syndicat",
+        "url": "/bar/paris/opera-and-les-halles/le-syndicat",
+        "image_url": "https://prh-wbb-prod.s3.amazonaws.com/bar_640_480/11084139_635693653242241_1268470479086622317_o_564aeec269766.jpg",
+        "tags": false,
+        "latitude": 48.8718113,
+        "longitude": 2.3536855
+    }, {
+        "id": 1243,
+        "address": "7 Rue Lobineau, 75006 Paris, France, St Germain and the Latin Quarter, Paris",
+        "name": "La Compagnie des Vins Surnaturels",
+        "url": "/bar/paris/st-germain-and-the-latin-quarter/la-compagnie-des-vins-surnaturels",
+        "image_url": "https://prh-wbb-prod.s3.amazonaws.com/bar_640_480/La%20Compagnie%20des%20Vins%20Surnaturels_54b54cd4d5ca1.jpg",
+        "tags": "Bar, Wine, Dancing",
+        "latitude": 48.851808,
+        "longitude": 2.336397
+    }, {
+        "id": 1257,
+        "address": "4 avenue de la R\u00e9publique, 75011, Outer Paris, Paris",
+        "name": "Le Little",
+        "url": "/bar/paris/outer-paris/le-little",
+        "image_url": "https://prh-wbb-prod.s3.amazonaws.com/generic_640_480/WBB%20holding%20image4_54abcf6d1f68d_55b8d2015bb13.jpg",
+        "tags": "Happy hour, Terrace, Cocktail, Rum, Beer, Wine",
+        "latitude": 48.8666651,
+        "longitude": 2.3660644
+    }, {
+        "id": 2153,
+        "address": "4,6,8 Cour du Commerce Saint Andr\u00e9, 75006, St Germain and the Latin Quarter, Paris",
+        "name": "Un dimanche \u00e0 Paris",
+        "url": "/bar/paris/st-germain-and-the-latin-quarter/un-dimanche-a-paris",
+        "image_url": "https://prh-wbb-prod.s3.amazonaws.com/generic_640_480/WBB%20holding%20image3_54abcf7d218d1_55b8d2128eabb.jpg",
+        "tags": "Dinner, Lunch",
+        "latitude": 48.8537981,
+        "longitude": 2.3333285
+    }, {
+        "id": 1394,
+        "address": "6 place Saint-Germain-des-Pr\u00e9s, St Germain and the Latin Quarter, Paris",
+        "name": "Les Deux Magots",
+        "url": "/bar/paris/st-germain-and-the-latin-quarter/les-deux-magots",
+        "image_url": "https://prh-wbb-prod.s3.amazonaws.com/generic_640_480/WBB%20holding%20image4_54abcf6d1f68d_55b8d2015bb13.jpg",
+        "tags": "Serves Food, Cafe",
+        "latitude": 48.854065099333,
+        "longitude": 2.333071231842
+    }, {
+        "id": 2165,
+        "address": "31 Boulevard Henri IV, City-Center, Paris",
+        "name": "Maria Loca",
+        "url": "/bar/paris/city-center/maria-loca",
+        "image_url": "https://prh-wbb-prod.s3.amazonaws.com/generic_640_480/WBB%20holding%20image1_54abcfef07abc_55b8d225168b6.jpg",
+        "tags": "Bar, Lounge, Cocktail",
+        "latitude": 48.852241437282,
+        "longitude": 2.3652999009937
+    }, {
+        "id": 1277,
+        "address": "172 Boulevard Saint-Germain 75006 Paris France, St Germain and the Latin Quarter, Paris",
+        "name": "Cafe de Flore",
+        "url": "/bar/paris/st-germain-and-the-latin-quarter/cafe-de-flore",
+        "image_url": "https://prh-wbb-prod.s3.amazonaws.com/generic_640_480/WBB%20holding%20image1_54abcfef07abc_55b8d225168b6.jpg",
+        "tags": "Serves Food, Terrace, Rum, Wine",
+        "latitude": 48.8539,
+        "longitude": 2.3325
+    }, {
+        "id": 1282,
+        "address": "3 Rue des Tournelles, 75004 Paris, France, Bastille and the Marais, Paris",
+        "name": "Bubar",
+        "url": "/bar/paris/bastille-and-the-marais/bubar",
+        "image_url": "https://prh-wbb-prod.s3.amazonaws.com/generic_640_480/WBB%20holding%20image4_54abcf6d1f68d_55b8d2015bb13.jpg",
+        "tags": "Wine",
+        "latitude": 48.853864749277,
+        "longitude": 2.367506073612
+    }, {
+        "id": 1632,
+        "address": "18 Rue du Faubourg du Temple, 75011 Paris, France, Bastille and the Marais, Paris",
+        "name": "Favela Chic",
+        "url": "/bar/paris/bastille-and-the-marais/favela-chic",
+        "image_url": "https://prh-wbb-prod.s3.amazonaws.com/generic_640_480/WBB%20holding%20image3_54abcf7d218d1_55b8d2128eabb.jpg",
+        "tags": "Nightlife, Nightclub, Restaurant, Bar, Cocktail, Lounge, Group Friendly, Reserve, Dinner",
+        "latitude": 48.868404968966,
+        "longitude": 2.3663538820585
+    }, {
+        "id": 1539,
+        "address": "10 Rue du March\u00e9 Saint-Honor\u00e9, 75001 Paris, France, Le Louvre, Paris",
+        "name": "Le Rubis",
+        "url": "/bar/paris/le-louvre/le-rubis",
+        "image_url": "https://prh-wbb-prod.s3.amazonaws.com/generic_640_480/WBB%20holding%20image1_54abcfef07abc_55b8d225168b6.jpg",
+        "tags": "Bar, Wine",
+        "latitude": 48.8663,
+        "longitude": 2.3315700000001
+    }, {
+        "id": 1540,
+        "address": "6 Place Edmond Rostand, 75006 Paris, France, St Germain and the Latin Quarter, Paris",
+        "name": "Le Rostand",
+        "url": "/bar/paris/st-germain-and-the-latin-quarter/le-rostand",
+        "image_url": "https://prh-wbb-prod.s3.amazonaws.com/generic_640_480/WBB%20holding%20image2_54abcf8947bad_55b8d2356db99.jpg",
+        "tags": "Restaurant, Bar, Cafe, Dinner, Lunch",
+        "latitude": 48.8475,
+        "longitude": 2.3404
+    }, {
+        "id": 1209,
+        "address": "35 place du March\u00e9 Saint-Honor\u00e9 1er,Place Vend\u00f4me, Le Louvre, Paris",
+        "name": "Tr\u00e8s Honor\u00e9",
+        "url": "/bar/paris/le-louvre/tres-honore",
+        "image_url": "https://prh-wbb-prod.s3.amazonaws.com/generic_640_480/WBB%20holding%20image1_54abcfef07abc_55b8d225168b6.jpg",
+        "tags": "Serves Food, Lounge, Vodka, Gin, Tequila",
+        "latitude": 48.86755782569,
+        "longitude": 2.3320740131876
+    }, {
+        "id": 4289,
+        "address": "19 Rue Lucien Sampaix, 75010 Paris, Opera and Les Halles, Paris",
+        "name": "Holybelly",
+        "url": "/bar/paris/opera-and-les-halles/holybelly",
+        "image_url": "https://prh-wbb-prod.s3.amazonaws.com/bar_640_480/6_HolybellyPhotoPack-PhotoCredit_NicoAlary_5580047888d20.jpg",
+        "tags": false,
+        "latitude": 48.8725182,
+        "longitude": 2.3603505
+    }, {
+        "id": 1204,
+        "address": "184 rue Saint-Jacques Rue Malebranche, St Germain and the Latin Quarter, Paris",
+        "name": "WOS",
+        "url": "/bar/paris/st-germain-and-the-latin-quarter/wos",
+        "image_url": "https://prh-wbb-prod.s3.amazonaws.com/bar_640_480/545a1ad0d086c_IMG_2173.jpg",
+        "tags": "Whisky, Rum, Vodka, Gin, Tequila",
+        "latitude": 48.846200364952,
+        "longitude": 2.3429390788078
+    }, {
+        "id": 2162,
+        "address": "5 rue Sedaine 11e Arrondissement, Bastille and the Marais, Paris",
+        "name": "Moonshiner",
+        "url": "/bar/paris/bastille-and-the-marais/moonshiner",
+        "image_url": "https://prh-wbb-prod.s3.amazonaws.com/generic_640_480/WBB%20holding%20image2_54abcf8947bad_55b8d2356db99.jpg",
+        "tags": "Bar, Lounge, Cocktail",
+        "latitude": 48.855692896054,
+        "longitude": 2.3712860308359
+    }, {
+        "id": 4041,
+        "address": "4 Rue de la Fontaine au Roi, 75011, R\u00e9publique, Paris",
+        "name": "Death by Burrito",
+        "url": "/bar/paris/republique/death-by-burrito",
+        "image_url": "https://prh-wbb-prod.s3.amazonaws.com/bar_640_480/Death%20by%20Burrito%20small%201_54e75f2fb842a.jpg",
+        "tags": "Mexican, Cocktail, Dancing, Music",
+        "latitude": 48.8685364,
+        "longitude": 2.3685568
+    }, {
+        "id": 1222,
+        "address": "5 rue Daunou, Le Louvre, Paris",
+        "name": "Harry\u0027s New York Bar",
+        "url": "/bar/paris/le-louvre/harry-s-new-york-bar",
+        "image_url": "https://prh-wbb-prod.s3.amazonaws.com/bar_640_480/harry_563740e57fb37.JPG",
+        "tags": "Cocktail",
+        "latitude": 48.869245695676,
+        "longitude": 2.332170009613
+    }, {
+        "id": 4451,
+        "address": "8 Rue de Paradis, 75010, Opera and Les Halles, Paris",
+        "name": "L\u2019Ours Bar",
+        "url": "/bar/paris/opera-and-les-halles/l-ours-bar",
+        "image_url": "https://prh-wbb-prod.s3.amazonaws.com/generic_640_480/WBB%20holding%20image3_54abcf7d218d1_55b8d2128eabb.jpg",
+        "tags": "Cocktail, Happy hour, Serves Food, Live music",
+        "latitude": 48.8747078,
+        "longitude": 2.3545908999999
+    }, {
+        "id": 1621,
+        "address": "36 Rue Beaurepaire, 75010 Paris, France, Bastille and the Marais, Paris",
+        "name": "Chez Prune",
+        "url": "/bar/paris/bastille-and-the-marais/chez-prune",
+        "image_url": "https://prh-wbb-prod.s3.amazonaws.com/generic_640_480/WBB%20holding%20image1_54abcfef07abc_55b8d225168b6.jpg",
+        "tags": "Bar, Cafe",
+        "latitude": 48.871707547945,
+        "longitude": 2.3645173431763
+    }, {
+        "id": 1559,
+        "address": "6 Rue Royer-Collard, 75005 Paris, France, St Germain and the Latin Quarter, Paris",
+        "name": "Le Crocodile",
+        "url": "/bar/paris/st-germain-and-the-latin-quarter/le-crocodile",
+        "image_url": "https://prh-wbb-prod.s3.amazonaws.com/bar_640_480/545cd45a1d1e3_croc%201.jpg",
+        "tags": "Cocktail",
+        "latitude": 48.845768640032,
+        "longitude": 2.3421766187333
+    }, {
+        "id": 4779,
+        "address": "44 rue des vinaigriers, 75010 Paris, France, Opera and Les Halles, Paris",
+        "name": "Gravity Bar",
+        "url": "/bar/paris/opera-and-les-halles/gravity-bar",
+        "image_url": "https://prh-wbb-prod.s3.amazonaws.com/generic_640_480/WBB%20holding%20image3_54abcf7d218d1_55b8d2128eabb.jpg",
+        "tags": "Cocktail, Serves Food",
+        "latitude": 48.8733907,
+        "longitude": 2.3608823
+    }, {
+        "id": 1293,
+        "address": "228 Rue de Rivoli, 75001 Paris, France, Le Louvre, Paris",
+        "name": "Bar 228",
+        "url": "/bar/paris/le-louvre/bar-228",
+        "image_url": "https://prh-wbb-prod.s3.amazonaws.com/bar_640_480/Bar%20228%20small%201_54ae7893cf871.jpg",
+        "tags": "Hotel, Cocktail, Gin, Champagne",
+        "latitude": 48.865167049004,
+        "longitude": 2.3281057718277
+    }, {
+        "id": 1558,
+        "address": "36 Rue de Paradis, 75010 Paris, France, Le Louvre, Paris",
+        "name": "Le Fant\u00f4me",
+        "url": "/bar/paris/le-louvre/le-fantome",
+        "image_url": "https://prh-wbb-prod.s3.amazonaws.com/generic_640_480/WBB%20holding%20image4_54abcf6d1f68d_55b8d2015bb13.jpg",
+        "tags": "Bar, Dinner, Lunch",
+        "latitude": 48.875293198209,
+        "longitude": 2.3509612045141
+    }, {
+        "id": 1997,
+        "address": "Palais Garnier, Place Jacques Rouch\u00e9, Bastille and the Marais, Paris",
+        "name": "Opera Restaurant",
+        "url": "/bar/paris/bastille-and-the-marais/opera-restaurant",
+        "image_url": "https://prh-wbb-prod.s3.amazonaws.com/generic_640_480/WBB%20holding%20image3_54abcf7d218d1_55b8d2128eabb.jpg",
+        "tags": false,
+        "latitude": 48.851192197021,
+        "longitude": 2.3698305455699
+    }, {
+        "id": 1260,
+        "address": "44 Rue du Bac, 75007 Paris, France, St Germain and the Latin Quarter, Paris",
+        "name": "Gaya Rive Gauche",
+        "url": "/bar/paris/st-germain-and-the-latin-quarter/gaya-rive-gauche",
+        "image_url": "https://prh-wbb-prod.s3.amazonaws.com/bar_640_480/rive%202_54b52c7cdd238.jpg",
+        "tags": "Restaurant",
+        "latitude": 48.8564070443,
+        "longitude": 2.32666503616
+    }, {
+        "id": 4780,
+        "address": "5 Rue de la Paix Paris,  France, 75002, Le Louvre, Paris",
+        "name": "Park Hyatt Paris Vendome",
+        "url": "/bar/paris/le-louvre/park-hyatt-paris-vendome",
+        "image_url": "https://prh-wbb-prod.s3.amazonaws.com/bar_640_480/Cocktails%202014%20034_560a70259cedc.JPG",
+        "tags": "Hotel, Cocktail, Serves Food",
+        "latitude": 48.8689845,
+        "longitude": 2.3301829
+    }, {
+        "id": 1730,
+        "address": "1 rue Jacquard, 75011, Bastille and the Marais, Paris",
+        "name": "Ave Maria",
+        "url": "/bar/paris/bastille-and-the-marais/ave-maria",
+        "image_url": "https://prh-wbb-prod.s3.amazonaws.com/generic_640_480/WBB%20holding%20image3_54abcf7d218d1_55b8d2128eabb.jpg",
+        "tags": "Bar, Cafe, Restaurant, Pub",
+        "latitude": 48.8644247,
+        "longitude": 2.3732422
+    }, {
+        "id": 1137,
+        "address": "4 Rue Meyerbeer, Opera and Les Halles, Paris",
+        "name": "W Lounge Paris",
+        "url": "/bar/paris/opera-and-les-halles/w-lounge-paris",
+        "image_url": "https://prh-wbb-prod.s3.amazonaws.com/generic_640_480/WBB%20holding%20image1_54abcfef07abc_55b8d225168b6.jpg",
+        "tags": "Hotel, Cocktail, Champagne, Great View, Serves Food, Live music",
+        "latitude": 48.871657805071,
+        "longitude": 2.3335066412013
+    }, {
+        "id": 1212,
+        "address": "15 Place Vendome, Le Louvre, Paris",
+        "name": "The Hemingway Bar",
+        "url": "/bar/paris/le-louvre/the-hemingway-bar",
+        "image_url": "https://prh-wbb-prod.s3.amazonaws.com/bar_640_480/Hemingway%20Paris_54ad6005e549d.jpg",
+        "tags": "Cocktail, Wine, Hotel",
+        "latitude": 48.868179749726,
+        "longitude": 2.3292264999316
+    }, {
+        "id": 1630,
+        "address": "239-241 Rue Saint-Honor\u00e9, 75001 Paris, France, Le Louvre, Paris",
+        "name": "Hotel Costes",
+        "url": "/bar/paris/le-louvre/hotel-costes",
+        "image_url": "https://prh-wbb-prod.s3.amazonaws.com/bar_640_480/hotel-costes_paris_bar_640x480_562de263f0cd9.jpg",
+        "tags": "Hotel, Bar, Nightlife, Pool",
+        "latitude": 48.86670378418,
+        "longitude": 2.3278647686462
+    }, {
+        "id": 1528,
+        "address": "18 Rue de Lappe, 75011 Paris, France, Bastille and the Marais, Paris",
+        "name": "Bar des Ferailleurs",
+        "url": "/bar/paris/bastille-and-the-marais/bar-des-ferailleurs",
+        "image_url": "https://prh-wbb-prod.s3.amazonaws.com/generic_640_480/WBB%20holding%20image2_54abcf8947bad_55b8d2356db99.jpg",
+        "tags": false,
+        "latitude": 48.8538,
+        "longitude": 2.37247
+    }, {
+        "id": 1396,
+        "address": "6 Rue Bichat, 75010, Bastille and the Marais, Paris",
+        "name": "Zelda\u0027s",
+        "url": "/bar/paris/bastille-and-the-marais/zelda-s",
+        "image_url": "https://prh-wbb-prod.s3.amazonaws.com/bar_640_480/Zelda%20resize%201_54aeae3378dfa.jpg",
+        "tags": "Live music, Cocktail, Beer",
+        "latitude": 48.8698489,
+        "longitude": 2.3692918
+    }, {
+        "id": 1553,
+        "address": "5 Rue Meyerbeer, 75009 Paris, France, Opera and Les Halles, Paris",
+        "name": "Le Patio",
+        "url": "/bar/paris/opera-and-les-halles/le-patio",
+        "image_url": "https://prh-wbb-prod.s3.amazonaws.com/generic_640_480/WBB%20holding%20image3_54abcf7d218d1_55b8d2128eabb.jpg",
+        "tags": "Restaurant, Group Friendly, Outdoor Space, Reserve, Dinner, Lunch",
+        "latitude": 48.871760179474,
+        "longitude": 2.3332526586739
+    }, {
+        "id": 2063,
+        "address": "26 bis rue de la Fontaine au Roi bis Rue de la Fontaine au Roi, Outer Paris, Paris",
+        "name": "Le Tiki Lounge",
+        "url": "/bar/paris/outer-paris/le-tiki-lounge",
+        "image_url": "https://prh-wbb-prod.s3.amazonaws.com/generic_640_480/WBB%20holding%20image1_54abcfef07abc_55b8d225168b6.jpg",
+        "tags": "Bar, Cocktail, Group Friendly, Reserve",
+        "latitude": 48.868315,
+        "longitude": 2.3711450000001
+    }, {
+        "id": 4196,
+        "address": "10 rue Casette Paris 75006, St Germain and the Latin Quarter, Paris",
+        "name": "Hotel de l\u2019Abbaye",
+        "url": "/bar/paris/st-germain-and-the-latin-quarter/hotel-de-l-abbaye",
+        "image_url": "https://prh-wbb-prod.s3.amazonaws.com/generic_640_480/WBB%20holding%20image2_54abcf8947bad_55b8d2356db99.jpg",
+        "tags": "Hotel, Outdoor Space",
+        "latitude": 48.8500394,
+        "longitude": 2.3304851
+    }, {
+        "id": 4371,
+        "address": "148 rue du Faubourg Saint-Martin, 75010 Paris, France, Opera and Les Halles, Paris",
+        "name": "Cafe A",
+        "url": "/bar/paris/opera-and-les-halles/cafe-a",
+        "image_url": "https://prh-wbb-prod.s3.amazonaws.com/generic_640_480/WBB%20holding%20image2_54abcf8947bad_55b8d2356db99.jpg",
+        "tags": "Outdoor bar, Great View, Serves Food",
+        "latitude": 48.875395,
+        "longitude": 2.3599864
+    }, {
+        "id": 1651,
+        "address": "46 Rue du Faubourg Saint-Antoine, 75012 Paris, France, Bastille and the Marais, Paris",
+        "name": "Barrio Latino",
+        "url": "/bar/paris/bastille-and-the-marais/barrio-latino",
+        "image_url": "https://prh-wbb-prod.s3.amazonaws.com/bar_640_480/545b61a611ea6_barrio%20latino%201.jpg",
+        "tags": false,
+        "latitude": 48.852205,
+        "longitude": 2.372693
+    }, {
+        "id": 4555,
+        "address": "1 Rue de Lyon, 75012 Paris, France, Bastille and the Marais, Paris",
+        "name": "L\u0027express de Lyon",
+        "url": "/bar/paris/bastille-and-the-marais/l-express-de-lyon",
+        "image_url": "https://prh-wbb-prod.s3.amazonaws.com/generic_640_480/WBB%20holding%20image3_54abcf7d218d1_55b8d2128eabb.jpg",
+        "tags": "Beer Bar",
+        "latitude": 48.8494191,
+        "longitude": 2.3709496
+    }, {
+        "id": 1626,
+        "address": "19 Rue Keller, 75011, Bastille and the Marais, Paris",
+        "name": "Caf\u00e9 Moderne",
+        "url": "/bar/paris/bastille-and-the-marais/cafe-moderne",
+        "image_url": "https://prh-wbb-prod.s3.amazonaws.com/bar_640_480/5458de6c0b58e_001%20%281%29.jpg",
+        "tags": "Dancing, Dancing",
+        "latitude": 48.8548424,
+        "longitude": 2.3755126
+    }, {
+        "id": 1887,
+        "address": "21 Rue Keller, Paris, France, Bastille and the Marais, Paris",
+        "name": "Lone Palm",
+        "url": "/bar/paris/bastille-and-the-marais/lone-palm",
+        "image_url": "https://prh-wbb-prod.s3.amazonaws.com/bar_640_480/5461d5334591c_lonepalm%204.jpg",
+        "tags": "Dancing",
+        "latitude": 48.8551,
+        "longitude": 2.37583
+    }, {
+        "id": 1134,
+        "address": "7, rue de Fleurus, St Germain and the Latin Quarter, Paris",
+        "name": "Bread and Roses",
+        "url": "/bar/paris/st-germain-and-the-latin-quarter/bread-and-roses",
+        "image_url": "https://prh-wbb-prod.s3.amazonaws.com/generic_640_480/WBB%20holding%20image4_54abcf6d1f68d_55b8d2015bb13.jpg",
+        "tags": "Restaurant",
+        "latitude": 48.8470070945,
+        "longitude": 2.33157260987
+    }, {
+        "id": 1511,
+        "address": "Burgundy Hotel 6-8 rue Duphot, Le Louvre, Paris",
+        "name": "Le Bar Baudelaire",
+        "url": "/bar/paris/le-louvre/le-bar-baudelaire",
+        "image_url": "https://prh-wbb-prod.s3.amazonaws.com/bar_640_480/546f55da35ac1_Baudelaire.jpg",
+        "tags": false,
+        "latitude": 48.867997342161,
+        "longitude": 2.3257713529725
+    }, {
+        "id": 1258,
+        "address": "7 rue choron, 75009 Paris, France, Opera and Les Halles, Paris",
+        "name": "Gocce",
+        "url": "/bar/paris/opera-and-les-halles/gocce",
+        "image_url": "https://prh-wbb-prod.s3.amazonaws.com/generic_640_480/WBB%20holding%20image2_54abcf8947bad_55b8d2356db99.jpg",
+        "tags": "Cocktail, Gin",
+        "latitude": 48.877307274496,
+        "longitude": 2.3412057878006
+    }, {
+        "id": 3961,
+        "address": "21 rue Saint Nicolas, 75012 Paris, France, Bastille and the Marais, Paris",
+        "name": "Dersou",
+        "url": "/bar/paris/bastille-and-the-marais/dersou",
+        "image_url": "https://prh-wbb-prod.s3.amazonaws.com/bar_640_480/Dersou%20small%201_5492e8201de4b.jpg",
+        "tags": false,
+        "latitude": 48.8515909,
+        "longitude": 2.3748196
+    }, {
+        "id": 1648,
+        "address": "5 Rue Saint-Lazare, 75009 Paris, France, Montmartre and the North, Paris",
+        "name": "Brittany Cocktails \u0026 Whisky Bar",
+        "url": "/bar/paris/montmartre-and-the-north/brittany-cocktails-whisky-bar",
+        "image_url": "https://prh-wbb-prod.s3.amazonaws.com/bar_640_480/Brittany%20cocktails%20small%201_54aea9751e5b8.jpg",
+        "tags": false,
+        "latitude": 48.8768241366,
+        "longitude": 2.3384119766799
+    }, {
+        "id": 1605,
+        "address": "50 Rue de Charenton, 75012 Paris, France, Bastille and the Marais, Paris",
+        "name": "Le China",
+        "url": "/bar/paris/bastille-and-the-marais/le-china",
+        "image_url": "https://prh-wbb-prod.s3.amazonaws.com/bar_640_480/CHina%202_54b555682430b.jpg",
+        "tags": "Serves Food, Lounge, Cocktail, Gin, Live music, Wine",
+        "latitude": 48.849975,
+        "longitude": 2.373812
+    }, {
+        "id": 1625,
+        "address": "109 Rue Oberkampf, 75011 Paris, France, Bastille and the Marais, Paris",
+        "name": "Cafe Charbon",
+        "url": "/bar/paris/bastille-and-the-marais/cafe-charbon",
+        "image_url": "https://prh-wbb-prod.s3.amazonaws.com/generic_640_480/WBB%20holding%20image2_54abcf8947bad_55b8d2356db99.jpg",
+        "tags": "Bar, Cafe, Pub",
+        "latitude": 48.865806611539,
+        "longitude": 2.3778024713749
+    }, {
+        "id": 2009,
+        "address": "20 rue Vignon 9e Arrondissement, Opera and Les Halles, Paris",
+        "name": "Touch\u0027In Paris",
+        "url": "/bar/paris/opera-and-les-halles/touch-in-paris",
+        "image_url": "https://prh-wbb-prod.s3.amazonaws.com/generic_640_480/WBB%20holding%20image4_54abcf6d1f68d_55b8d2015bb13.jpg",
+        "tags": "Bar, Cafe, Restaurant, Group Friendly, Reserve, Dinner, Lunch",
+        "latitude": 48.871222158559,
+        "longitude": 2.3262529880609
+    }, {
+        "id": 1149,
+        "address": "156 avenue Ledru Rollin, Bastille and the Marais, Paris",
+        "name": "The Pigs",
+        "url": "/bar/paris/bastille-and-the-marais/the-pigs",
+        "image_url": "https://prh-wbb-prod.s3.amazonaws.com/generic_640_480/WBB%20holding%20image2_54abcf8947bad_55b8d2356db99.jpg",
+        "tags": "Serves Food, Cocktail, Vodka, Gin, Rum",
+        "latitude": 48.856056815883,
+        "longitude": 2.3789373554193
+    }, {
+        "id": 2102,
+        "address": "9 Rue Tronchet, 75008 Par\u00eds, France, Champs Elysees, Paris",
+        "name": "Carr\u00e9 Rouge",
+        "url": "/bar/paris/champs-elysees/carre-rouge",
+        "image_url": "https://prh-wbb-prod.s3.amazonaws.com/generic_640_480/WBB%20holding%20image3_54abcf7d218d1_55b8d2128eabb.jpg",
+        "tags": false,
+        "latitude": 48.871601802194,
+        "longitude": 2.3253822523435
+    }, {
+        "id": 1624,
+        "address": "82 Rue de Charenton, 75012 Paris, France, Bastille and the Marais, Paris",
+        "name": "Calbar",
+        "url": "/bar/paris/bastille-and-the-marais/calbar",
+        "image_url": "https://prh-wbb-prod.s3.amazonaws.com/generic_640_480/WBB%20holding%20image3_54abcf7d218d1_55b8d2128eabb.jpg",
+        "tags": "Bar, Cocktail, Group Friendly, Outdoor Space, Reserve",
+        "latitude": 48.848825022044,
+        "longitude": 2.3753106594086
+    }, {
+        "id": 1650,
+        "address": "43 Rue Godefroy Cavaignac, 75011 Paris, France, Bastille and the Marais, Paris",
+        "name": "Bones",
+        "url": "/bar/paris/bastille-and-the-marais/bones",
+        "image_url": "https://prh-wbb-prod.s3.amazonaws.com/bar_640_480/bones%20small%201_548acc8289f29.jpg",
+        "tags": "Restaurant, Dinner",
+        "latitude": 48.856676990966,
+        "longitude": 2.380074262619
+    }, {
+        "id": 4781,
+        "address": "82 Rue de Charenton, 75012 Paris, France, Bastille and the Marais, Paris",
+        "name": "Le Calbar",
+        "url": "/bar/paris/bastille-and-the-marais/le-calbar",
+        "image_url": "https://prh-wbb-prod.s3.amazonaws.com/generic_640_480/WBB%20holding%20image2_54abcf8947bad_55b8d2356db99.jpg",
+        "tags": "Cocktail, Whisky, Wine, Spirits",
+        "latitude": 48.8486848,
+        "longitude": 2.3752892
+    }, {
+        "id": 2022,
+        "address": "8/12, rue Boissy d\u0027Anglas 75008, Champs Elysees, Paris",
+        "name": "Buddha Bar",
+        "url": "/bar/paris/champs-elysees/buddha-bar",
+        "image_url": "https://prh-wbb-prod.s3.amazonaws.com/bar_640_480/Buddha%202_54b6873dc8b2c.jpg",
+        "tags": "Bar, Lounge, Cocktail, Restaurant, Dinner, Lunch",
+        "latitude": 48.8681903,
+        "longitude": 2.3217228
+    }, {
+        "id": 1557,
+        "address": "4 Boulevard Malesherbes, 75008 Paris, France, Opera and Les Halles, Paris",
+        "name": "Le Forvm",
+        "url": "/bar/paris/opera-and-les-halles/le-forvm",
+        "image_url": "https://prh-wbb-prod.s3.amazonaws.com/generic_640_480/WBB%20holding%20image3_54abcf7d218d1_55b8d2128eabb.jpg",
+        "tags": "Bar, Cocktail, Lounge",
+        "latitude": 48.870544205445,
+        "longitude": 2.3234367370605
+    }, {
+        "id": 1248,
+        "address": "25 Rue Moret, 75011 Paris, France, Bastille and the Marais, Paris",
+        "name": "Josephine Caves Parisiennes",
+        "url": "/bar/paris/bastille-and-the-marais/josephine-caves-parisiennes",
+        "image_url": "https://prh-wbb-prod.s3.amazonaws.com/bar_640_480/Josephine%20small%201_5551e40ecb039.jpg",
+        "tags": "Serves Food, Speakeasy, Cocktail, Champagne, Wine",
+        "latitude": 48.8677463575,
+        "longitude": 2.37882529722
+    }, {
+        "id": 4162,
+        "address": "5 Rue Trousseau, 75011 Paris, Bastille and the Marais, Paris",
+        "name": "Bottle Shop",
+        "url": "/bar/paris/bastille-and-the-marais/bottle-shop",
+        "image_url": "https://prh-wbb-prod.s3.amazonaws.com/generic_640_480/WBB%20holding%20image2_54abcf8947bad_55b8d2356db99.jpg",
+        "tags": "Cocktail, Group Friendly, DJ, Happy hour",
+        "latitude": 48.8511991,
+        "longitude": 2.3783958
+    }, {
+        "id": 1255,
+        "address": "8 Rue de Navarin, 75009 Paris, France, Opera and Les Halles, Paris",
+        "name": "Hotel Amour",
+        "url": "/bar/paris/opera-and-les-halles/hotel-amour",
+        "image_url": "https://prh-wbb-prod.s3.amazonaws.com/generic_640_480/WBB%20holding%20image1_54abcfef07abc_55b8d225168b6.jpg",
+        "tags": "Serves Food, Hotel, Cocktail",
+        "latitude": 48.879579879662,
+        "longitude": 2.3393957552236
+    }, {
+        "id": 1529,
+        "address": "3 Rue Basfroi, 75011 Paris, France, Bastille and the Marais, Paris",
+        "name": "Septime La Cave",
+        "url": "/bar/paris/bastille-and-the-marais/septime-la-cave",
+        "image_url": "https://prh-wbb-prod.s3.amazonaws.com/generic_640_480/WBB%20holding%20image1_54abcfef07abc_55b8d225168b6.jpg",
+        "tags": "Bar, Wine, Tapas",
+        "latitude": 48.85371615348,
+        "longitude": 2.3803995539112
+    }, {
+        "id": 1383,
+        "address": "80 Rue de Charonne, 75011 Paris, France, Bastille and the Marais, Paris",
+        "name": "Clamato",
+        "url": "/bar/paris/bastille-and-the-marais/clamato",
+        "image_url": "https://prh-wbb-prod.s3.amazonaws.com/generic_640_480/WBB%20holding%20image3_54abcf7d218d1_55b8d2128eabb.jpg",
+        "tags": "Beer, Wine, Serves Food",
+        "latitude": 48.8536,
+        "longitude": 2.3806999999999
+    }, {
+        "id": 4526,
+        "address": "6 Avenue Jean Aicard, 75011 Paris, Opera and Les Halles, Paris",
+        "name": "La fine mousse",
+        "url": "/bar/paris/opera-and-les-halles/la-fine-mousse",
+        "image_url": "https://prh-wbb-prod.s3.amazonaws.com/generic_640_480/WBB%20holding%20image4_54abcf6d1f68d_55b8d2015bb13.jpg",
+        "tags": "Beer, Cheese, Live music",
+        "latitude": 48.8647906,
+        "longitude": 2.381767
+    }, {
+        "id": 1518,
+        "address": "14 Rue Crespin du Gast, 75011 Paris, France, City-Center, Paris",
+        "name": "Le Perchoir",
+        "url": "/bar/paris/city-center/le-perchoir",
+        "image_url": "https://prh-wbb-prod.s3.amazonaws.com/bar_640_480/Perchoir_54b68a6041de2.jpg",
+        "tags": false,
+        "latitude": 48.865508212121,
+        "longitude": 2.3819711711258
+    }, {
+        "id": 1575,
+        "address": "24 Boulevard Malesherbes, 75008 Paris, France, Le Louvre, Paris",
+        "name": "La Chinoiserie",
+        "url": "/bar/paris/le-louvre/la-chinoiserie",
+        "image_url": "https://prh-wbb-prod.s3.amazonaws.com/generic_640_480/WBB%20holding%20image4_54abcf6d1f68d_55b8d2015bb13.jpg",
+        "tags": "Bar",
+        "latitude": 48.872142328754,
+        "longitude": 2.3223966539661
+    }, {
+        "id": 1884,
+        "address": "1 bis rue de la forge royale Rue du Faubourg Saint-Antoine, Bastille and the Marais, Paris",
+        "name": "Red House",
+        "url": "/bar/paris/bastille-and-the-marais/red-house",
+        "image_url": "https://prh-wbb-prod.s3.amazonaws.com/generic_640_480/WBB%20holding%20image1_54abcfef07abc_55b8d225168b6.jpg",
+        "tags": "Cocktail, Gin, Rum, Tequila",
+        "latitude": 48.850755919318,
+        "longitude": 2.3801091313362
+    }, {
+        "id": 1401,
+        "address": "7 Rue Richard Lenoir, Bastille and the Marais, Paris",
+        "name": "Le P\u0027Tit",
+        "url": "/bar/paris/bastille-and-the-marais/le-p-tit",
+        "image_url": "https://prh-wbb-prod.s3.amazonaws.com/generic_640_480/WBB%20holding%20image2_54abcf8947bad_55b8d2356db99.jpg",
+        "tags": "Bar, Dive",
+        "latitude": 48.854544581375,
+        "longitude": 2.3823064472526
+    }, {
+        "id": 2150,
+        "address": "14, Rue Bochart de Saron?  9e Arrondissement, Opera and Les Halles, Paris",
+        "name": "Artisan",
+        "url": "/bar/paris/opera-and-les-halles/artisan",
+        "image_url": "https://prh-wbb-prod.s3.amazonaws.com/generic_640_480/WBB%20holding%20image3_54abcf7d218d1_55b8d2128eabb.jpg",
+        "tags": "Bar",
+        "latitude": 48.881399338742,
+        "longitude": 2.3424280668648
+    }, {
+        "id": 1347,
+        "address": "171 boulevard Montparnasse, St Germain and the Latin Quarter, Paris",
+        "name": "Closerie des Lilas",
+        "url": "/bar/paris/st-germain-and-the-latin-quarter/closerie-des-lilas",
+        "image_url": "https://prh-wbb-prod.s3.amazonaws.com/generic_640_480/WBB%20holding%20image4_54abcf6d1f68d_55b8d2015bb13.jpg",
+        "tags": "Airport, Champagne, Wine",
+        "latitude": 48.840034165431,
+        "longitude": 2.3359652195738
+    }, {
+        "id": 1631,
+        "address": "4 Rue Victor Gelez, 75011 Paris, France, Bastille and the Marais, Paris",
+        "name": "Gossima Ping Pong Bar",
+        "url": "/bar/paris/bastille-and-the-marais/gossima-ping-pong-bar",
+        "image_url": "https://prh-wbb-prod.s3.amazonaws.com/generic_640_480/WBB%20holding%20image4_54abcf6d1f68d_55b8d2015bb13.jpg",
+        "tags": "Bar, Group Friendly, Reserve, Lunch",
+        "latitude": 48.864799455918,
+        "longitude": 2.3827028274536
+    }, {
+        "id": 1514,
+        "address": "28 rue Henry Monnier, 75009 Paris, France, Opera and Les Halles, Paris",
+        "name": "La Buvette",
+        "url": "/bar/paris/opera-and-les-halles/la-buvette",
+        "image_url": "https://prh-wbb-prod.s3.amazonaws.com/bar_640_480/La%20Buvette_54b54c769ed8f.jpg",
+        "tags": "Bar, Pub",
+        "latitude": 48.8805,
+        "longitude": 2.33764
+    }, {
+        "id": 4093,
+        "address": "62 Rue Notre Dame de Lorette 75009 Paris, Opera and Les Halles, Paris",
+        "name": "Baton Rouge",
+        "url": "/bar/paris/opera-and-les-halles/baton-rouge",
+        "image_url": "https://prh-wbb-prod.s3.amazonaws.com/bar_640_480/Lait%20de%20pelican_550970d3af58a.jpg",
+        "tags": "Cocktail, Group Friendly, Champagne, Wine",
+        "latitude": 48.8802108,
+        "longitude": 2.3354635000001
+    }, {
+        "id": 4194,
+        "address": "47 Rue de la Rochefoucauld, 75009 Paris, Opera and Les Halles, Paris",
+        "name": "l\u0027Embuscade",
+        "url": "/bar/paris/opera-and-les-halles/l-embuscade",
+        "image_url": "https://prh-wbb-prod.s3.amazonaws.com/generic_640_480/WBB%20holding%20image2_54abcf8947bad_55b8d2356db99.jpg",
+        "tags": "Cocktail, Serves Food, Mojito, Rum, Live music",
+        "latitude": 48.8800868,
+        "longitude": 2.3350159
+    }, {
+        "id": 4517,
+        "address": "29 Rue Victor Masse, 75009 Paris, France, Opera and Les Halles, Paris",
+        "name": "Grand Pigalle Hotel",
+        "url": "/bar/paris/opera-and-les-halles/grand-pigalle-hotel",
+        "image_url": "https://prh-wbb-prod.s3.amazonaws.com/bar_640_480/Grand%20Pigalle%201_55f1b0d123277.jpg",
+        "tags": "Wine Bar, Serves Food, Cocktail, Hotel",
+        "latitude": 48.8809328,
+        "longitude": 2.3374945
+    }, {
+        "id": 1573,
+        "address": "102 Boulevard du Montparnasse, 75014 Paris, France, St Germain and the Latin Quarter, Paris",
+        "name": "La Coupole",
+        "url": "/bar/paris/st-germain-and-the-latin-quarter/la-coupole",
+        "image_url": "https://prh-wbb-prod.s3.amazonaws.com/generic_640_480/WBB%20holding%20image1_54abcfef07abc_55b8d225168b6.jpg",
+        "tags": "Restaurant, Delivery, Group Friendly, Outdoor Space, Reserve, Dinner, Lunch",
+        "latitude": 48.842440878579,
+        "longitude": 2.3283392931642
+    }, {
+        "id": 1671,
+        "address": "Parvis de la Gare Saint-Lazare, Rue Int\u00e9rieure, 75008 Paris, France, Opera and Les Halles, Paris",
+        "name": "Lazare",
+        "url": "/bar/paris/opera-and-les-halles/lazare",
+        "image_url": "https://prh-wbb-prod.s3.amazonaws.com/generic_640_480/WBB%20holding%20image1_54abcfef07abc_55b8d225168b6.jpg",
+        "tags": "Bar, Cafe, Restaurant, Group Friendly, Reserve, Dinner, Lunch",
+        "latitude": 48.875925565517,
+        "longitude": 2.3255312603533
+    }, {
+        "id": 4092,
+        "address": "30 rue Victor Mass\u00e9, 75009, Opera and Les Halles, Paris",
+        "name": "L\u2019Entr\u00e9e des Artistes",
+        "url": "/bar/paris/opera-and-les-halles/l-entree-des-artistes",
+        "image_url": "https://prh-wbb-prod.s3.amazonaws.com/generic_640_480/WBB%20holding%20image2_54abcf8947bad_55b8d2356db99.jpg",
+        "tags": "Cocktail, Serves Food",
+        "latitude": 48.8810909,
+        "longitude": 2.337407
+    }, {
+        "id": 1525,
+        "address": "5 rue Frochot, 75009 Paris, France, Opera and Les Halles, Paris",
+        "name": "Lipstick",
+        "url": "/bar/paris/opera-and-les-halles/lipstick",
+        "image_url": "https://prh-wbb-prod.s3.amazonaws.com/bar_640_480/5459f489d907d_IMG_2102.JPG",
+        "tags": "Dancing, Dancing",
+        "latitude": 48.881435,
+        "longitude": 2.337534
+    }, {
+        "id": 4383,
+        "address": "34 Quai d\u0027Austerlitz, 75013 PARIS, Outer Paris, Paris",
+        "name": "Le Nuba",
+        "url": "/bar/paris/outer-paris/le-nuba",
+        "image_url": "https://prh-wbb-prod.s3.amazonaws.com/generic_640_480/WBB%20holding%20image2_54abcf8947bad_55b8d2356db99.jpg",
+        "tags": "Dancing, Great View, Group Friendly, Outdoor Space, Rooftop, Serves Food, Terrace, Live music, Nightclub, Hipster",
+        "latitude": 48.840960279302,
+        "longitude": 2.3697788460327
+    }, {
+        "id": 1158,
+        "address": "7 rue Frochot  9e Arrondissement, Montmartre and the North, Paris",
+        "name": "Glass",
+        "url": "/bar/paris/montmartre-and-the-north/glass",
+        "image_url": "https://prh-wbb-prod.s3.amazonaws.com/bar_640_480/Glass%20small%201_555224bc56b5a.jpg",
+        "tags": "Speakeasy, Cocktail, Tequila",
+        "latitude": 48.8815102,
+        "longitude": 2.3373197
+    }, {
+        "id": 1612,
+        "address": "10 Rue Frochot, 75009 Paris, France, Opera and Les Halles, Paris",
+        "name": "Dirty Dick",
+        "url": "/bar/paris/opera-and-les-halles/dirty-dick",
+        "image_url": "https://prh-wbb-prod.s3.amazonaws.com/bar_640_480/Dirty%20Dick_54b5592b558c6.jpg",
+        "tags": "Tiki, Rum",
+        "latitude": 48.881555483773,
+        "longitude": 2.3374928534031
+    }, {
+        "id": 1220,
+        "address": "11 Bis Rue Delambre, 75014, St Germain and the Latin Quarter, Paris",
+        "name": "Rosebud",
+        "url": "/bar/paris/st-germain-and-the-latin-quarter/rosebud",
+        "image_url": "https://prh-wbb-prod.s3.amazonaws.com/generic_640_480/WBB%20holding%20image2_54abcf8947bad_55b8d2356db99.jpg",
+        "tags": "Cocktail, Serves Food, Wine",
+        "latitude": 48.841725,
+        "longitude": 2.328222
+    }, {
+        "id": 3951,
+        "address": "12 Rue Frochot 75009 Paris France, Outer Paris, Paris",
+        "name": "Lulu White",
+        "url": "/bar/paris/outer-paris/lulu-white",
+        "image_url": "https://prh-wbb-prod.s3.amazonaws.com/bar_640_480/lulu%20white%20small%202_54db7c1c8e008.jpg",
+        "tags": "Cocktail",
+        "latitude": 48.881714,
+        "longitude": 2.337277
+    }, {
+        "id": 4290,
+        "address": "Invalides, 75007 Paris, Eiffel Tower, Paris",
+        "name": "Faust",
+        "url": "/bar/paris/eiffel-tower/faust",
+        "image_url": "https://prh-wbb-prod.s3.amazonaws.com/generic_640_480/WBB%20holding%20image3_54abcf7d218d1_55b8d2128eabb.jpg",
+        "tags": "Restaurant, Terrace, Nightclub, Wine",
+        "latitude": 48.8593608,
+        "longitude": 2.3138127
+    }, {
+        "id": 3958,
+        "address": "50 Rue L\u00e9on Frot 75011 Paris, Bastille and the Marais, Paris",
+        "name": "A La Fran\u00e7aise",
+        "url": "/bar/paris/bastille-and-the-marais/a-la-francaise",
+        "image_url": "https://prh-wbb-prod.s3.amazonaws.com/generic_640_480/WBB%20holding%20image3_54abcf7d218d1_55b8d2128eabb.jpg",
+        "tags": "Cocktail, Serves Food",
+        "latitude": 48.8560707,
+        "longitude": 2.3863188
+    }, {
+        "id": 1555,
+        "address": "6 Rue Andr\u00e9 Antoine, 75018 Paris, France, Opera and Les Halles, Paris",
+        "name": "Bar Le Kremlin",
+        "url": "/bar/paris/opera-and-les-halles/bar-le-kremlin",
+        "image_url": "https://prh-wbb-prod.s3.amazonaws.com/bar_640_480/5460dcfc05ee2_kremlin%201.jpg",
+        "tags": false,
+        "latitude": 48.88284991787,
+        "longitude": 2.3374319940528
+    }, {
+        "id": 4527,
+        "address": "1 Rue Victor Letalle, 75020 Paris, Bastille and the Marais, Paris",
+        "name": "Les Trois 8",
+        "url": "/bar/paris/bastille-and-the-marais/les-trois-8",
+        "image_url": "https://prh-wbb-prod.s3.amazonaws.com/generic_640_480/WBB%20holding%20image1_54abcfef07abc_55b8d225168b6.jpg",
+        "tags": "Wine, Beer Bar, Cheese, Happy hour",
+        "latitude": 48.8673823,
+        "longitude": 2.3852425
+    }, {
+        "id": 1217,
+        "address": "168 rue Montmartre, St Germain and the Latin Quarter, Paris",
+        "name": "SoMo",
+        "url": "/bar/paris/st-germain-and-the-latin-quarter/somo",
+        "image_url": "https://prh-wbb-prod.s3.amazonaws.com/generic_640_480/WBB%20holding%20image2_54abcf8947bad_55b8d2356db99.jpg",
+        "tags": "Bar",
+        "latitude": 48.842123,
+        "longitude": 2.3230255999999
+    }, {
+        "id": 4159,
+        "address": "14 Rue Germain Pilon, 75018 Paris, Montmartre and the North, Paris",
+        "name": "Marlusse et Lapin",
+        "url": "/bar/paris/montmartre-and-the-north/marlusse-et-lapin",
+        "image_url": "https://prh-wbb-prod.s3.amazonaws.com/generic_640_480/WBB%20holding%20image3_54abcf7d218d1_55b8d2128eabb.jpg",
+        "tags": "Cocktail",
+        "latitude": 48.8837275,
+        "longitude": 2.3367625999999
+    }, {
+        "id": 2043,
+        "address": "Grand Palais Avenue Winston Churchill, 75008, Champs Elysees, Paris",
+        "name": "Minipalais",
+        "url": "/bar/paris/champs-elysees/minipalais",
+        "image_url": "https://prh-wbb-prod.s3.amazonaws.com/bar_640_480/minipalis%202_54b648272eeb2.jpg",
+        "tags": false,
+        "latitude": 48.866109,
+        "longitude": 2.312454
+    }, {
+        "id": 2238,
+        "address": "33 avenue du Maine avenue du Maine, Outer Paris, Paris",
+        "name": "Ciel de Paris",
+        "url": "/bar/paris/outer-paris/ciel-de-paris",
+        "image_url": "https://prh-wbb-prod.s3.amazonaws.com/bar_640_480/Ciel_54b688c3eb94e.jpg",
+        "tags": "Restaurant, Bar, Champagne, Group Friendly, Reserve, Dinner, Lunch",
+        "latitude": 48.842173975976,
+        "longitude": 2.321902513504
+    }, {
+        "id": 4288,
+        "address": "Quai d\u0027Orsay, Port des Invalides, 75007 Paris, Eiffel Tower, Paris",
+        "name": "Rosa Bonheur Sur Seine",
+        "url": "/bar/paris/eiffel-tower/rosa-bonheur-sur-seine",
+        "image_url": "https://prh-wbb-prod.s3.amazonaws.com/bar_640_480/Rosa%20by%20nite_55819d010e620.jpg",
+        "tags": "Terrace, Wine, Serves Food",
+        "latitude": 48.8624238,
+        "longitude": 2.3109914
+    }, {
+        "id": 1506,
+        "address": "112 rue du Faubourg Saint-Honor\u00e9, Champs Elysees, Paris",
+        "name": "Le Bar du Bristol",
+        "url": "/bar/paris/champs-elysees/le-bar-du-bristol",
+        "image_url": "https://prh-wbb-prod.s3.amazonaws.com/bar_640_480/546f57e6857ee_Le%20Bar%20du%20Bristol.jpg",
+        "tags": false,
+        "latitude": 48.8717476907,
+        "longitude": 2.3145633719696
+    }, {
+        "id": 1538,
+        "address": "35 Rue des Abbesses, 75018 Paris, France, Montmartre and the North, Paris",
+        "name": "Le Sancerre",
+        "url": "/bar/paris/montmartre-and-the-north/le-sancerre",
+        "image_url": "https://prh-wbb-prod.s3.amazonaws.com/generic_640_480/WBB%20holding%20image1_54abcfef07abc_55b8d225168b6.jpg",
+        "tags": "Bar, Restaurant, Cafe, Lounge",
+        "latitude": 48.885152,
+        "longitude": 2.337141
+    }, {
+        "id": 4091,
+        "address": "3 rue Durantin, Paris, Montmartre and the North, Paris",
+        "name": "Persifleur",
+        "url": "/bar/paris/montmartre-and-the-north/persifleur",
+        "image_url": "https://prh-wbb-prod.s3.amazonaws.com/bar_640_480/salle%201%20PERSIFLEUR_55094b16579a8.jpg",
+        "tags": "Cocktail",
+        "latitude": 48.8852161,
+        "longitude": 2.3372363999999
+    }, {
+        "id": 4313,
+        "address": "41 bis quai de la loire Paris 75019, Montmartre and the North, Paris",
+        "name": "Paname Brewing Company",
+        "url": "/bar/paris/montmartre-and-the-north/paname-brewing-company",
+        "image_url": "https://prh-wbb-prod.s3.amazonaws.com/generic_640_480/WBB%20holding%20image1_54abcfef07abc_55b8d225168b6.jpg",
+        "tags": "Beer, Cocktail, Terrace, Serves Food",
+        "latitude": 48.8829702,
+        "longitude": 2.3706729
+    }, {
+        "id": 1214,
+        "address": "24 Rue Surcouf 75007 Paris France, City-Center, Paris",
+        "name": "The Club",
+        "url": "/bar/paris/city-center/the-club",
+        "image_url": "https://prh-wbb-prod.s3.amazonaws.com/bar_640_480/eZUKDAjMOLM.jpg",
+        "tags": "Serves Food, Cocktail, Beer",
+        "latitude": 48.86048,
+        "longitude": 2.309403
+    }, {
+        "id": 1276,
+        "address": "14 rue Muller 75018 Paris, Montmartre and the North, Paris",
+        "name": "Blue Note",
+        "url": "/bar/paris/montmartre-and-the-north/blue-note",
+        "image_url": "https://prh-wbb-prod.s3.amazonaws.com/generic_640_480/WBB%20holding%20image3_54abcf7d218d1_55b8d2128eabb.jpg",
+        "tags": "Cocktail",
+        "latitude": 48.8867638304,
+        "longitude": 2.34658052179
+    }, {
+        "id": 2208,
+        "address": "14 Rue Muller, 75018 Paris, France, Montmartre and the North, Paris",
+        "name": "Le Blue Club",
+        "url": "/bar/paris/montmartre-and-the-north/le-blue-club",
+        "image_url": "https://prh-wbb-prod.s3.amazonaws.com/generic_640_480/WBB%20holding%20image1_54abcfef07abc_55b8d225168b6.jpg",
+        "tags": "Nightlife",
+        "latitude": 48.8867591,
+        "longitude": 2.3464822999999
+    }, {
+        "id": 1247,
+        "address": "27 Rue Pierre Fontaine 9eme,Saint-Georges, Le Louvre, Paris",
+        "name": "Le Depanneur",
+        "url": "/bar/paris/le-louvre/le-depanneur",
+        "image_url": "https://prh-wbb-prod.s3.amazonaws.com/generic_640_480/WBB%20holding%20image3_54abcf7d218d1_55b8d2128eabb.jpg",
+        "tags": "Serves Food, Terrace, Lounge, Cocktail, Tequila, Beer",
+        "latitude": 48.884404902584,
+        "longitude": 2.3326405383298
+    }, {
+        "id": 1608,
+        "address": "5 Passage Ruelle, 75018 Paris, France, Opera and Les Halles, Paris",
+        "name": "Ice Kube Bar",
+        "url": "/bar/paris/opera-and-les-halles/ice-kube-bar",
+        "image_url": "https://prh-wbb-prod.s3.amazonaws.com/generic_640_480/WBB%20holding%20image4_54abcf6d1f68d_55b8d2015bb13.jpg",
+        "tags": "Hotel, Restaurant, Bar, Cocktail",
+        "latitude": 48.886615870713,
+        "longitude": 2.3588383386231
+    }, {
+        "id": 2139,
+        "address": "8, rue Jean Goujon 75008, Paris, Champs Elysees, Paris",
+        "name": "Blind Bar",
+        "url": "/bar/paris/champs-elysees/blind-bar",
+        "image_url": "https://prh-wbb-prod.s3.amazonaws.com/bar_640_480/blind%20bar%20small%201_54aea45b0d47e.jpg",
+        "tags": "Hotel, Lounge, Cocktail",
+        "latitude": 48.866594400763,
+        "longitude": 2.3090397901888
+    }, {
+        "id": 1556,
+        "address": "25 bis Rue Duvivier, 75007 Paris, France, St Germain and the Latin Quarter, Paris",
+        "name": "Le Fourbi",
+        "url": "/bar/paris/st-germain-and-the-latin-quarter/le-fourbi",
+        "image_url": "https://prh-wbb-prod.s3.amazonaws.com/generic_640_480/WBB%20holding%20image4_54abcf6d1f68d_55b8d2015bb13.jpg",
+        "tags": "Restaurant, Bar, Cocktail, Wine, Dinner",
+        "latitude": 48.856045,
+        "longitude": 2.3074360000001
+    }, {
+        "id": 1321,
+        "address": "12-14 Rue Joseph de Maistre, 75018 Paris, France, Montmartre and the North, Paris",
+        "name": "The 7th",
+        "url": "/bar/paris/montmartre-and-the-north/the-7th",
+        "image_url": "https://prh-wbb-prod.s3.amazonaws.com/generic_640_480/WBB%20holding%20image1_54abcfef07abc_55b8d225168b6.jpg",
+        "tags": "Great View, Terrace, Hotel, Cocktail",
+        "latitude": 48.886555722632,
+        "longitude": 2.3330069610523
+    }, {
+        "id": 2058,
+        "address": "32 rue Cler \u00e0 Paris, 75007 Paris, France, Outer Paris, Paris",
+        "name": "L\u0027Eclair",
+        "url": "/bar/paris/outer-paris/l-eclair",
+        "image_url": "https://prh-wbb-prod.s3.amazonaws.com/generic_640_480/WBB%20holding%20image3_54abcf7d218d1_55b8d2128eabb.jpg",
+        "tags": "Cocktail, Terrace, Serves Food, Wine",
+        "latitude": 48.8570142,
+        "longitude": 2.3059184
+    }, {
+        "id": 4291,
+        "address": "6 impasse de la D\u00e9fense, 75018, Montmartre and the North, Paris",
+        "name": "Le Bal",
+        "url": "/bar/paris/montmartre-and-the-north/le-bal",
+        "image_url": "https://prh-wbb-prod.s3.amazonaws.com/generic_640_480/WBB%20holding%20image4_54abcf6d1f68d_55b8d2015bb13.jpg",
+        "tags": "Cocktail, Cafe, Serves Food",
+        "latitude": 48.8852683,
+        "longitude": 2.3273229
+    }, {
+        "id": 1536,
+        "address": "23, avenue Junot, Pavillon D, 75018 Paris, Montmartre and the North, Paris",
+        "name": "Le Tres Particulier",
+        "url": "/bar/paris/montmartre-and-the-north/le-tres-particulier",
+        "image_url": "https://prh-wbb-prod.s3.amazonaws.com/bar_640_480/Tresparticulier_tdc_small1_560bf840da9a1.jpg",
+        "tags": "Cocktail, DJ, Hotel, Outdoor Space",
+        "latitude": 48.888346,
+        "longitude": 2.335432
+    }, {
+        "id": 3914,
+        "address": "Hotel Marignan, 12 Rue de Marignan, Paris, 75008, Champs Elysees, Paris",
+        "name": "Hotel Marignan",
+        "url": "/bar/paris/champs-elysees/hotel-marignan",
+        "image_url": "https://prh-wbb-prod.s3.amazonaws.com/generic_640_480/WBB%20holding%20image1_54abcfef07abc_55b8d225168b6.jpg",
+        "tags": false,
+        "latitude": 48.86859285416,
+        "longitude": 2.3063682539673
+    }, {
+        "id": 4387,
+        "address": "Parc des Buttes, Chaumont, 2 avenue de la Cascade, Montmartre and the North, Paris",
+        "name": "Rosa Bonheur Buttes Chaumont",
+        "url": "/bar/paris/montmartre-and-the-north/rosa-bonheur-buttes-chaumont",
+        "image_url": "https://prh-wbb-prod.s3.amazonaws.com/generic_640_480/WBB%20holding%20image3_54abcf7d218d1_55b8d2128eabb.jpg",
+        "tags": "Dancing, Group Friendly, LGBT, Outdoor Space, Serves Food, Smoking Area, Tapas, Terrace, Cafe",
+        "latitude": 48.88095,
+        "longitude": 2.382761
+    }, {
+        "id": 1552,
+        "address": "25 avenue Montaigne 75008 PARIS France, Champs Elysees, Paris",
+        "name": "Le Plaza Ath\u00e9n\u00e9e",
+        "url": "/bar/paris/champs-elysees/le-plaza-athenee",
+        "image_url": "https://prh-wbb-prod.s3.amazonaws.com/bar_640_480/le%20plaza%20athenee_54b550bbd0732.jpg",
+        "tags": false,
+        "latitude": 48.866226196289,
+        "longitude": 2.3042171001434
+    }, {
+        "id": 2159,
+        "address": "16  Rue la Tr\u00e9moille 8e Arrondissement, Champs Elysees, Paris",
+        "name": "Senso",
+        "url": "/bar/paris/champs-elysees/senso",
+        "image_url": "https://prh-wbb-prod.s3.amazonaws.com/generic_640_480/WBB%20holding%20image3_54abcf7d218d1_55b8d2128eabb.jpg",
+        "tags": "Restaurant",
+        "latitude": 48.867,
+        "longitude": 2.30285
+    }, {
+        "id": 4017,
+        "address": "20 Rue d\u0027Artois, 75008 Paris, Champs Elysees, Paris",
+        "name": "Apicius",
+        "url": "/bar/paris/champs-elysees/apicius",
+        "image_url": "https://prh-wbb-prod.s3.amazonaws.com/generic_640_480/WBB%20holding%20image1_54abcfef07abc_55b8d225168b6.jpg",
+        "tags": "Serves Food, Cocktail, Outdoor Space",
+        "latitude": 48.8738283,
+        "longitude": 2.3064568
+    }, {
+        "id": 1522,
+        "address": "14 Rue de la Tr\u00e9moille, 75008 Paris, France, Champs Elysees, Paris",
+        "name": "Louis2",
+        "url": "/bar/paris/champs-elysees/louis2",
+        "image_url": "https://prh-wbb-prod.s3.amazonaws.com/generic_640_480/WBB%20holding%20image4_54abcf6d1f68d_55b8d2015bb13.jpg",
+        "tags": "Restaurant",
+        "latitude": 48.866837507773,
+        "longitude": 2.3026862264558
+    }, {
+        "id": 1291,
+        "address": "68 Quai de la Loire, 75019 Paris, France, Bastille and the Marais, Paris",
+        "name": "Bar Ourcq",
+        "url": "/bar/paris/bastille-and-the-marais/bar-ourcq",
+        "image_url": "https://prh-wbb-prod.s3.amazonaws.com/generic_640_480/WBB%20holding%20image3_54abcf7d218d1_55b8d2128eabb.jpg",
+        "tags": "Gin, Terrace",
+        "latitude": 48.8865,
+        "longitude": 2.3773
+    }, {
+        "id": 4525,
+        "address": "3 Rue Baudelique, 75018 Paris, Montmartre and the North, Paris",
+        "name": "Le Supercoin",
+        "url": "/bar/paris/montmartre-and-the-north/le-supercoin",
+        "image_url": "https://prh-wbb-prod.s3.amazonaws.com/bar_640_480/Les%20Franches_55e0153ca05c9.JPG",
+        "tags": "Beer Bar, Pub",
+        "latitude": 48.8921886,
+        "longitude": 2.3470164
+    }, {
+        "id": 1251,
+        "address": "49 Rue Pierre Charron, 75008 Paris, France, Champs Elysees, Paris",
+        "name": "Pershing Hall Lounge Bar",
+        "url": "/bar/paris/champs-elysees/pershing-hall-lounge-bar",
+        "image_url": "https://prh-wbb-prod.s3.amazonaws.com/bar_640_480/pershing%20hall%202_5497f11110d03.jpg",
+        "tags": "Hotel, Lounge, Cocktail, Champagne, Wine",
+        "latitude": 48.869137732912,
+        "longitude": 2.3022690373997
+    }, {
+        "id": 1609,
+        "address": "Face au 11 quai Fran\u00e7ois Mauriac, 75013, Outer Paris, Paris",
+        "name": "Le Batofar",
+        "url": "/bar/paris/outer-paris/le-batofar",
+        "image_url": "https://prh-wbb-prod.s3.amazonaws.com/bar_640_480/545a44d6a9e31_batofar2.jpg",
+        "tags": false,
+        "latitude": 48.833382225428,
+        "longitude": 2.3792588710785
+    }, {
+        "id": 1893,
+        "address": "48 Rue Louis Blanc, 75010 Paris, France, City-Center, Paris",
+        "name": "La Bulle",
+        "url": "/bar/paris/city-center/la-bulle",
+        "image_url": "https://prh-wbb-prod.s3.amazonaws.com/generic_640_480/WBB%20holding%20image3_54abcf7d218d1_55b8d2128eabb.jpg",
+        "tags": "Champagne, Hotel, Restaurant",
+        "latitude": 48.8769,
+        "longitude": 2.30711
+    }, {
+        "id": 1578,
+        "address": "2 Rue de Berri, 75008 Paris, France, Champs Elysees, Paris",
+        "name": "Impala Louge",
+        "url": "/bar/paris/champs-elysees/impala-louge",
+        "image_url": "https://prh-wbb-prod.s3.amazonaws.com/generic_640_480/WBB%20holding%20image4_54abcf6d1f68d_55b8d2015bb13.jpg",
+        "tags": "Bar",
+        "latitude": 48.87198,
+        "longitude": 2.303192
+    }, {
+        "id": 1615,
+        "address": "7  rue de Berri 8 arrondissement de Pars, Champs Elysees, Paris",
+        "name": "Hotel Lancaster",
+        "url": "/bar/paris/champs-elysees/hotel-lancaster",
+        "image_url": "https://prh-wbb-prod.s3.amazonaws.com/generic_640_480/WBB%20holding%20image3_54abcf7d218d1_55b8d2128eabb.jpg",
+        "tags": "Spirits",
+        "latitude": 48.8718,
+        "longitude": 2.30304
+    }, {
+        "id": 4315,
+        "address": "75019, 39 Quai de la Loire, 75019 Paris, Montmartre and the North, Paris",
+        "name": "Pavillon Des Canaux",
+        "url": "/bar/paris/montmartre-and-the-north/pavillon-des-canaux",
+        "image_url": "https://prh-wbb-prod.s3.amazonaws.com/bar_640_480/Pavillon_559414d686539.jpg",
+        "tags": "Cocktail, Wine, Restaurant, Cafe",
+        "latitude": 48.887432109291,
+        "longitude": 2.3788132883606
+    }, {
+        "id": 2160,
+        "address": "102  Avenue des Champs-Elysees, Champs Elysees, Paris",
+        "name": "Queen",
+        "url": "/bar/paris/champs-elysees/queen",
+        "image_url": "https://prh-wbb-prod.s3.amazonaws.com/generic_640_480/WBB%20holding%20image2_54abcf8947bad_55b8d2356db99.jpg",
+        "tags": "Bar, Nightlife, Nightclub",
+        "latitude": 48.871779963031,
+        "longitude": 2.302386228848
+    }, {
+        "id": 4830,
+        "address": "33 Avenue George V \u00b7 Paris, 75008 \u00b7 France, Champs Elysees, Paris",
+        "name": "Prince de Galles",
+        "url": "/bar/paris/champs-elysees/prince-de-galles",
+        "image_url": "https://prh-wbb-prod.s3.amazonaws.com/generic_640_480/WBB%20holding%20image4_54abcf6d1f68d_55b8d2015bb13.jpg",
+        "tags": "Hotel, Cocktail, Champagne",
+        "latitude": 48.8691631,
+        "longitude": 2.3004410999999
+    }, {
+        "id": 4019,
+        "address": "10 Rue Tholoz\u00e9  75018 Paris, Montmartre and the North, Paris",
+        "name": "Studio 28",
+        "url": "/bar/paris/montmartre-and-the-north/studio-28",
+        "image_url": "https://prh-wbb-prod.s3.amazonaws.com/generic_640_480/WBB%20holding%20image4_54abcf6d1f68d_55b8d2015bb13.jpg",
+        "tags": "Outdoor Space, Cocktail",
+        "latitude": 48.892329784194,
+        "longitude": 2.3343919153442
+    }, {
+        "id": 1649,
+        "address": "49 Avenue George V 75008 Paris, France, Champs Elysees, Paris",
+        "name": "Bound Bar",
+        "url": "/bar/paris/champs-elysees/bound-bar",
+        "image_url": "https://prh-wbb-prod.s3.amazonaws.com/generic_640_480/WBB%20holding%20image3_54abcf7d218d1_55b8d2128eabb.jpg",
+        "tags": "Bar, Pub, Restaurant",
+        "latitude": 48.870876192833,
+        "longitude": 2.3009856170519
+    }, {
+        "id": 2163,
+        "address": "49/51 avenue George V, 75008 Paris, France, Champs Elysees, Paris",
+        "name": "Miss Ko",
+        "url": "/bar/paris/champs-elysees/miss-ko",
+        "image_url": "https://prh-wbb-prod.s3.amazonaws.com/generic_640_480/WBB%20holding%20image4_54abcf6d1f68d_55b8d2015bb13.jpg",
+        "tags": "Restaurant, Dinner, Lunch",
+        "latitude": 48.8709606,
+        "longitude": 2.300343
+    }, {
+        "id": 1254,
+        "address": "109, Rue de Bagnolet 75020, Bastille and the Marais, Paris",
+        "name": "Mama Shelter",
+        "url": "/bar/paris/bastille-and-the-marais/mama-shelter",
+        "image_url": "https://prh-wbb-prod.s3.amazonaws.com/bar_640_480/mama%20shelter%20small%201_5489ad8129f50.jpg",
+        "tags": "Serves Food, Terrace, Hotel, Rock, Cocktail, Wine",
+        "latitude": 48.859759906601,
+        "longitude": 2.4027818441391
+    }, {
+        "id": 2154,
+        "address": "16 Avenue de Friedland 8e Arrondissement, Champs Elysees, Paris",
+        "name": "The Bistrologist",
+        "url": "/bar/paris/champs-elysees/the-bistrologist",
+        "image_url": "https://prh-wbb-prod.s3.amazonaws.com/generic_640_480/WBB%20holding%20image2_54abcf8947bad_55b8d2356db99.jpg",
+        "tags": "Bar, Cocktail, Restaurant, Group Friendly, Outdoor Space, Reserve, Dinner, Lunch",
+        "latitude": 48.874455188773,
+        "longitude": 2.301190096821
+    }, {
+        "id": 1206,
+        "address": "26 Avenue Friedland, Champs Elysees, Paris",
+        "name": "William\u0027s Cocktail Bar",
+        "url": "/bar/paris/champs-elysees/william-s-cocktail-bar",
+        "image_url": "https://prh-wbb-prod.s3.amazonaws.com/generic_640_480/WBB%20holding%20image2_54abcf8947bad_55b8d2356db99.jpg",
+        "tags": "Cocktail, Champagne",
+        "latitude": 48.8744,
+        "longitude": 2.30069
+    }, {
+        "id": 1521,
+        "address": "Hotel Novotel Paris Vaugirard Montparnasse, Rue de Vaugirard, 75015 Paris, France, City-Center, Paris",
+        "name": "Lounge Bar View",
+        "url": "/bar/paris/city-center/lounge-bar-view",
+        "image_url": "https://prh-wbb-prod.s3.amazonaws.com/generic_640_480/WBB%20holding%20image4_54abcf6d1f68d_55b8d2015bb13.jpg",
+        "tags": "Bar, Cocktail, Lounge",
+        "latitude": 48.839968,
+        "longitude": 2.303125
+    }, {
+        "id": 1614,
+        "address": "17 Avenue Kl\u00e9ber, 75116 Paris, France, Champs Elysees, Paris",
+        "name": "Hotel Raphael Bar",
+        "url": "/bar/paris/champs-elysees/hotel-raphael-bar",
+        "image_url": "https://prh-wbb-prod.s3.amazonaws.com/bar_640_480/546097e6ae0e8_hotel-raphael-paris-checkyourroom-6.jpg",
+        "tags": "Dancing, Dancing",
+        "latitude": 48.871477344311,
+        "longitude": 2.2946675661108
+    }, {
+        "id": 3912,
+        "address": "Hotel Peninsula 19 Avenue Kl\u00e9ber, Paris, 75116, Champs Elysees, Paris",
+        "name": "L\u2019Oiseau Blanc",
+        "url": "/bar/paris/champs-elysees/l-oiseau-blanc",
+        "image_url": "https://prh-wbb-prod.s3.amazonaws.com/generic_640_480/WBB%20holding%20image4_54abcf6d1f68d_55b8d2015bb13.jpg",
+        "tags": "Hotel, Rooftop, Restaurant",
+        "latitude": 48.870852316272,
+        "longitude": 2.2933832539672
+    }, {
+        "id": 1569,
+        "address": "37 Avenue Hoche, 75008 Paris, France, Champs Elysees, Paris",
+        "name": "Le Bar Long",
+        "url": "/bar/paris/champs-elysees/le-bar-long",
+        "image_url": "https://prh-wbb-prod.s3.amazonaws.com/bar_640_480/le%20long%20bar_54b55069c8e2b.jpg",
+        "tags": "Cocktail, Hotel",
+        "latitude": 48.874203846154,
+        "longitude": 2.2942476923076
+    }, {
+        "id": 1250,
+        "address": "19 Rue de l\u0027\u00c9toile, 75017 Paris, France, Champs Elysees, Paris",
+        "name": "Flute L\u0027Etoile",
+        "url": "/bar/paris/champs-elysees/flute-l-etoile",
+        "image_url": "https://prh-wbb-prod.s3.amazonaws.com/generic_640_480/WBB%20holding%20image1_54abcfef07abc_55b8d225168b6.jpg",
+        "tags": "Bar, Group Friendly, Reserve",
+        "latitude": 48.877470756863,
+        "longitude": 2.294951858398
+    }, {
+        "id": 1245,
+        "address": "4 Rue de l\u0027Arc de Triomphe, 75017 Paris, France, Champs Elysees, Paris",
+        "name": "La 25eme heure",
+        "url": "/bar/paris/champs-elysees/la-25eme-heure",
+        "image_url": "https://prh-wbb-prod.s3.amazonaws.com/generic_640_480/WBB%20holding%20image3_54abcf7d218d1_55b8d2128eabb.jpg",
+        "tags": "Rock, Cocktail",
+        "latitude": 48.876554896279,
+        "longitude": 2.2938321454893
+    }, {
+        "id": 1882,
+        "address": "4 Rue de l\u0027Arc de Triomphe, 75017 Paris, France, Champs Elysees, Paris",
+        "name": "UC-61",
+        "url": "/bar/paris/champs-elysees/uc-61",
+        "image_url": "https://prh-wbb-prod.s3.amazonaws.com/bar_640_480/545a192903801_IMG_2186.JPG",
+        "tags": "Cocktail",
+        "latitude": 48.8775981,
+        "longitude": 2.2933783999999
+    }, {
+        "id": 1269,
+        "address": "117 rue de Lauriston Dokhan\u0027s H\u00f4tel, Champs Elysees, Paris",
+        "name": "Le Dokhan\u0027s",
+        "url": "/bar/paris/champs-elysees/le-dokhan-s",
+        "image_url": "https://prh-wbb-prod.s3.amazonaws.com/generic_640_480/WBB%20holding%20image2_54abcf8947bad_55b8d2356db99.jpg",
+        "tags": "Hotel, Champagne, Wine",
+        "latitude": 48.866266136462,
+        "longitude": 2.2867054393977
+    }, {
+        "id": 1572,
+        "address": "Hotel Sezz 6, avenue Fr\u00e9miet, Outer Paris, Paris",
+        "name": "La Grande Dame Hotel Sezz",
+        "url": "/bar/paris/outer-paris/la-grande-dame-hotel-sezz",
+        "image_url": "https://prh-wbb-prod.s3.amazonaws.com/generic_640_480/WBB%20holding%20image3_54abcf7d218d1_55b8d2128eabb.jpg",
+        "tags": false,
+        "latitude": 48.8565,
+        "longitude": 2.28518
+    }, {
+        "id": 1261,
+        "address": "57 Avenue Raymond Poincar\u00e9, 75116 Paris, France, Champs Elysees, Paris",
+        "name": "G Bar and Lounge",
+        "url": "/bar/paris/champs-elysees/g-bar-and-lounge",
+        "image_url": "https://prh-wbb-prod.s3.amazonaws.com/generic_640_480/WBB%20holding%20image3_54abcf7d218d1_55b8d2128eabb.jpg",
+        "tags": "Hotel, Lounge, Gin",
+        "latitude": 48.867327,
+        "longitude": 2.285795
+    }, {
+        "id": 1571,
+        "address": "29 Rue Brunel 75017 Paris, Champs Elysees, Paris",
+        "name": "L\u0027Ambre",
+        "url": "/bar/paris/champs-elysees/l-ambre",
+        "image_url": "https://prh-wbb-prod.s3.amazonaws.com/bar_640_480/17_54b54b17f30f6.jpg",
+        "tags": "Cocktail, Cheese, Happy hour",
+        "latitude": 48.878634409742,
+        "longitude": 2.2879368488851
+    }, {
+        "id": 1238,
+        "address": "3 Place du G\u00e9n\u00e9ral K\u0153nig, 75017 Paris, France, Champs Elysees, Paris",
+        "name": "La Vue",
+        "url": "/bar/paris/champs-elysees/la-vue",
+        "image_url": "https://prh-wbb-prod.s3.amazonaws.com/bar_640_480/002_54b54d12dbe4b.jpg",
+        "tags": "Great View, Hotel, DJ",
+        "latitude": 48.879849366401,
+        "longitude": 2.2841206583108
+    }, {
+        "id": 4197,
+        "address": "43 Avenue Bugeaud, 75116 Paris, Champs Elysees, Paris",
+        "name": "Hotel Saint James",
+        "url": "/bar/paris/champs-elysees/hotel-saint-james",
+        "image_url": "https://prh-wbb-prod.s3.amazonaws.com/bar_640_480/c3IxRdJoT_s.jpg",
+        "tags": "Cocktail, Terrace, Hotel, Restaurant",
+        "latitude": 48.8709299,
+        "longitude": 2.2792806
+    }, {
+        "id": 1183,
+        "address": "3 place clement ader 16e Arrondissement, City-Center, Paris",
+        "name": "Zebra Square",
+        "url": "/bar/paris/city-center/zebra-square",
+        "image_url": "https://prh-wbb-prod.s3.amazonaws.com/generic_640_480/WBB%20holding%20image2_54abcf8947bad_55b8d2356db99.jpg",
+        "tags": "Serves Food, Cocktail, Champagne, Wine",
+        "latitude": 48.851551064296,
+        "longitude": 2.2778719109817
+    }, {
+        "id": 4317,
+        "address": "13 Rue Nungesser et Coli, 75016 Paris, Outer Paris, Paris",
+        "name": "Hotel Molitor",
+        "url": "/bar/paris/outer-paris/hotel-molitor",
+        "image_url": "https://prh-wbb-prod.s3.amazonaws.com/bar_640_480/Molitor%203_55a9178cec52d.jpg",
+        "tags": "Hotel, Cocktail, Wine, Beer, Great View, Rooftop",
+        "latitude": 48.8446534,
+        "longitude": 2.2522195
+    }],
+    "neighborhoods": [{
+        "id": 1,
+        "name": "Bastille and the Marais",
+        "slug": "bastille-and-the-marais"
+    }, {
+        "id": 2,
+        "name": "Champs Elysees",
+        "slug": "champs-elysees"
+    }, {
+        "id": 3,
+        "name": "Le Louvre",
+        "slug": "le-louvre"
+    }, {
+        "id": 4,
+        "name": "Montmartre and the North",
+        "slug": "montmartre-and-the-north"
+    }, {
+        "id": 5,
+        "name": "Opera and Les Halles",
+        "slug": "opera-and-les-halles"
+    }, {
+        "id": 6,
+        "name": "St Germain and the Latin Quarter",
+        "slug": "st-germain-and-the-latin-quarter"
+    }, {
+        "id": 37,
+        "name": "Eiffel Tower",
+        "slug": "eiffel-tower"
+    }, {
+        "id": 59,
+        "name": "Outer Paris",
+        "slug": "outer-paris"
+    }, {
+        "id": 1275,
+        "name": "City-Center",
+        "slug": "city-center"
+    }, {
+        "id": 1478,
+        "name": "R\u00e9publique",
+        "slug": "republique"
+    }],
+    "city": {
+        "name": "Paris, France",
+        "nameonly": "Paris",
+        "id": 1
+    }
+}
