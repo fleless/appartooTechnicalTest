@@ -1,0 +1,6 @@
+framework module Pods_AppartooTechnicalTest {
+  umbrella header "Pods-AppartooTechnicalTest-umbrella.h"
+
+  export *
+  module * { export * }
+}
