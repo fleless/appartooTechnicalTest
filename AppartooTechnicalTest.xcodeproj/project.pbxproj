@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		652BF07FC94253A4D9D26E87 /* Pods_AppartooTechnicalTest.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FD23AF8BE829E1DA1B08D09C /* Pods_AppartooTechnicalTest.framework */; };
+		DA1836522225A1C30089F3EC /* AjoutBarViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA1836512225A1C30089F3EC /* AjoutBarViewController.swift */; };
 		DA4CA951221A67D0008D7878 /* CustomPin.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA4CA950221A67D0008D7878 /* CustomPin.swift */; };
 		DA4CA953221A711F008D7878 /* SearchingBarExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA4CA952221A711F008D7878 /* SearchingBarExtension.swift */; };
 		DA4CA955221A7382008D7878 /* DetailsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA4CA954221A7382008D7878 /* DetailsViewController.swift */; };
@@ -28,6 +29,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		DA1836512225A1C30089F3EC /* AjoutBarViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AjoutBarViewController.swift; sourceTree = "<group>"; };
 		DA4CA950221A67D0008D7878 /* CustomPin.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomPin.swift; sourceTree = "<group>"; };
 		DA4CA952221A711F008D7878 /* SearchingBarExtension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchingBarExtension.swift; sourceTree = "<group>"; };
 		DA4CA954221A7382008D7878 /* DetailsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailsViewController.swift; sourceTree = "<group>"; };
@@ -138,6 +140,7 @@
 				DA63E6A42218D4FC002B3606 /* BarsViewController.swift */,
 				DA6ECB0322193B9300197BD1 /* MapViewController.swift */,
 				DA4CA954221A7382008D7878 /* DetailsViewController.swift */,
+				DA1836512225A1C30089F3EC /* AjoutBarViewController.swift */,
 			);
 			path = Controllers;
 			sourceTree = "<group>";
@@ -303,6 +306,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				DA1836522225A1C30089F3EC /* AjoutBarViewController.swift in Sources */,
 				DA4CA953221A711F008D7878 /* SearchingBarExtension.swift in Sources */,
 				DA63E6A52218D4FC002B3606 /* BarsViewController.swift in Sources */,
 				DA6ECB0A2219450E00197BD1 /* BarTableViewExtension.swift in Sources */,

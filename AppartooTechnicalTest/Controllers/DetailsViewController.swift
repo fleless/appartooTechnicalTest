@@ -33,4 +33,5 @@ class DetailsViewController: UIViewController, MKMapViewDelegate {
         annotationView.canShowCallout = true
         return annotationView
     }
+ 
 }

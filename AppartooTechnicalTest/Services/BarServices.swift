@@ -21,10 +21,13 @@ class BarServices{
                 for items in jsonData.bars {
                     bars.append(items)
                 }
+                print(AppDelegate.newBar)
+                if let nb = AppDelegate.newBar {bars.append(AppDelegate.newBar)}
             } catch {
                 print("le fichier json est introuvable")
             }
         }
         return bars
     }
+    
 }

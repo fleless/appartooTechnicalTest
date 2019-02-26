@@ -22,5 +22,13 @@ struct Bar: Codable{
         case imageUrl = "image_url"
         case address, name, url, latitude, longitude
     }
-
+    init(id: Int, adress:String, name:String, url: String, imageUrl: String, latiture: Double, longitutde: Double){
+        self.id = id
+        self.address = adress
+        self.name = name
+        self.url = url
+        self.imageUrl = imageUrl
+        self.latitude = latiture
+        self.longitude = longitutde
+    }
 }

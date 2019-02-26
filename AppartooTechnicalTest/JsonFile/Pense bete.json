@@ -1329,7 +1329,7 @@
         "name": "Bar Le Kremlin",
         "url": "/bar/paris/opera-and-les-halles/bar-le-kremlin",
         "image_url": "https://prh-wbb-prod.s3.amazonaws.com/bar_640_480/5460dcfc05ee2_kremlin%201.jpg",
-        "tags": false,
+        "tags": "false",
         "latitude": 48.88284991787,
         "longitude": 2.3374319940528
     }, {

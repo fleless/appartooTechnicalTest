@@ -10,6 +10,7 @@ import UIKit
 
 extension BarsViewController: UISearchBarDelegate{
     func searchBar(_ searchBar: UISearchBar, textDidChange searchText: String) {
+        filteredBars = bars
         filteredBars = bars.filter({$0.name.contains(searchText) })
         filtring = true
         if(searchText == ""){
